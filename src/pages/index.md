@@ -16,6 +16,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     title: Instrumentation Fittings
+    subtitle: Instrumentation Fittings
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
