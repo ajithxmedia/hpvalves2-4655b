@@ -61,6 +61,7 @@ sections:
       - image: images/Butt-Weld-Fittings.png
         image_alt: Gridsome logo
         image_align: center
+        subtitle: Butt Weld Fittings
       - image: images/logo-8.svg
         image_alt: Git logo
         image_align: center
