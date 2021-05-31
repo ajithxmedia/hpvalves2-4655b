@@ -64,7 +64,7 @@ sections:
         subtitle: Butt Weld Fittings
         title_align: center
         image_has_padding: true
-      - image: images/logo-8.svg
+      - image: images/Valve-Manifolds.png
         image_alt: Git logo
         image_align: center
     grid_cols: four
