@@ -63,6 +63,7 @@ sections:
         image_align: center
         subtitle: Butt Weld Fittings
         title_align: center
+        image_has_padding: true
       - image: images/logo-8.svg
         image_alt: Git logo
         image_align: center
