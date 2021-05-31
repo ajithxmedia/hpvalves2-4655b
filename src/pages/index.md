@@ -40,7 +40,7 @@ sections:
         subtitle: Pipe Fitting
         image_has_padding: true
         title_align: center
-      - image: images/logo-4.svg
+      - image: images/Ermeto-Fittings-1.png
         image_alt: Sanity logo
         image_align: center
       - image: images/logo-5.svg
