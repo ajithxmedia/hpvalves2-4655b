@@ -19,7 +19,6 @@ sections:
     content: "We are one of the pioneers in the manufacture of Tube Fittings, Pipe Fittings, Hose Fittings, Flare Fittings, Ermeto Fittings, Flanges. \n\t\t\t\t\t\t\t\n\n"
   - type: grid_section
     title: Product Range
-    subtitle: Grid Section Example
     align: center
     grid_items:
       - image: images/logo-1.svg
