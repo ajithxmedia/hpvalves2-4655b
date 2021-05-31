@@ -35,10 +35,6 @@ export default class Header extends React.Component {
             								<HeaderMenu {...this.props} header_menu={_.get(this.props, 'pageContext.site.siteMetadata.header.secondary_nav_links', null)} page={this.props.pageContext} />
             							)}
             						</div>
-                                    <div className="navbar__menu flex-md">
-                                    <input type="text">
-            							
-            						</div>
             					</div>
             				</div>
             			</div>
