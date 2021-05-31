@@ -2,9 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
     actions:
       - label: Try Free
         url: /pricing
