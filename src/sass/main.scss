@@ -49,9 +49,11 @@ div.navbar__menu.flex-md{
 }
 
 // Action Button chnage
-a.btn{
+.item__body{
+    a.btn{
     background: transparent;
     border: 1px solid lightgray;
     border-radius: 0;
     color: #1774ab;
+    }
 }
