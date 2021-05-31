@@ -62,5 +62,7 @@ div.navbar__menu.flex-md{
 
 // Grid customize
 @media (min-width: 961px){
-    .section.section.hero + section .grid .cell-lg-4:nth-child(2)
+    .section.section.hero + section .grid .cell-lg-4:nth-child(2){
+        max-width:50% !important;
+    }
 }
