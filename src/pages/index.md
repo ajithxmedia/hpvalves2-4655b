@@ -67,6 +67,7 @@ sections:
       - image: images/Valve-Manifolds.png
         image_alt: Git logo
         image_align: center
+        subtitle: m
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
