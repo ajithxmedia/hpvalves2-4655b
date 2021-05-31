@@ -16,13 +16,13 @@
                 "style": "link"
             },
             {
-                "label": "Product",
-                "url": "/about",
+                "label": "Home",
+                "url": "/features",
                 "style": "link"
             },
             {
-                "label": "Home",
-                "url": "/features",
+                "label": "Product",
+                "url": "/about",
                 "style": "link"
             },
             {
