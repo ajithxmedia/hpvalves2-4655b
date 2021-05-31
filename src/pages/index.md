@@ -52,7 +52,7 @@ sections:
         subtitle: Flare Fittings
         title_align: center
         image_has_padding: true
-      - image: images/logo-6.svg
+      - image: images/Orbital-Weld-Fittings.png
         image_alt: Next.js logo
         image_align: center
         subtitle: Orbital Weld Fittings
