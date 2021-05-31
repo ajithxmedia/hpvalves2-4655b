@@ -51,6 +51,7 @@ sections:
         image_align: center
         subtitle: Flare Fittings
         title_align: center
+        image_has_padding: true
       - image: images/logo-6.svg
         image_alt: Next.js logo
         image_align: center
