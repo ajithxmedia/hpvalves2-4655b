@@ -43,5 +43,7 @@
 
 div.navbar__menu.flex-md{
     flex-direction:column;
-    
+    ul.menu{        
+    justify-content: flex-end;
+    }
 }
