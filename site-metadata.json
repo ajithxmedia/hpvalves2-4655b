@@ -11,11 +11,6 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Home",
-                "url": "/features",
-                "style": "link"
-            },
-            {
                 "label": "About us",
                 "url": "/pricing",
                 "style": "link"
@@ -23,6 +18,11 @@
             {
                 "label": "Product",
                 "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Home",
+                "url": "/features",
                 "style": "link"
             },
             {
