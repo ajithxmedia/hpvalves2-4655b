@@ -21,7 +21,7 @@ sections:
     title: Product Range
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/1.png
         image_alt: Contentful logo
         image_align: center
         subtitle: Pipe Fitting
