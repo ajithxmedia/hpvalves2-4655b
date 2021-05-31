@@ -33,6 +33,7 @@ sections:
         image_align: center
         subtitle: Tube Fitting
         title_align: center
+        image_has_padding: true
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
