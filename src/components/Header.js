@@ -28,11 +28,12 @@ export default class Header extends React.Component {
             							<span className="sr-only">Close</span>
             						</button>
             						<div className="navbar__menu flex-md">
-            							{(_.get(this.props, 'pageContext.site.siteMetadata.header.has_primary_nav', null) && _.get(this.props, 'pageContext.site.siteMetadata.header.primary_nav_links', null)) && (
-            								<HeaderMenu {...this.props} header_menu={_.get(this.props, 'pageContext.site.siteMetadata.header.primary_nav_links', null)} page={this.props.pageContext} />
-            							)}
+            							
             							{(_.get(this.props, 'pageContext.site.siteMetadata.header.has_secondary_nav', null) && _.get(this.props, 'pageContext.site.siteMetadata.header.secondary_nav_links', null)) && (
             								<HeaderMenu {...this.props} header_menu={_.get(this.props, 'pageContext.site.siteMetadata.header.secondary_nav_links', null)} page={this.props.pageContext} />
+            							)}
+                                        {(_.get(this.props, 'pageContext.site.siteMetadata.header.has_primary_nav', null) && _.get(this.props, 'pageContext.site.siteMetadata.header.primary_nav_links', null)) && (
+            								<HeaderMenu {...this.props} header_menu={_.get(this.props, 'pageContext.site.siteMetadata.header.primary_nav_links', null)} page={this.props.pageContext} />
             							)}
             						</div>
             					</div>
