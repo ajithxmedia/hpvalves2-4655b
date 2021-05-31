@@ -39,6 +39,7 @@ sections:
         image_align: center
         subtitle: Pipe Fitting
         image_has_padding: true
+        title_align: center
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
