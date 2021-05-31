@@ -94,7 +94,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Contact",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
