@@ -34,7 +34,7 @@ sections:
             type: action
           - label: Certifications
             url: '#'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
