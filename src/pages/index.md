@@ -153,7 +153,7 @@ sections:
         image_has_padding: true
     grid_cols: four
     grid_gap_horiz: medium
-    grid_gap_vert: small
+    grid_gap_vert: large
     enable_cards: true
     has_border: false
   - type: features_section
