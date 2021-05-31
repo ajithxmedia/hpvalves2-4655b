@@ -24,7 +24,7 @@ sections:
       - image: images/1.png
         image_alt: Contentful logo
         image_align: center
-        subtitle: Pipe Fitting
+        subtitle: Valve Fitting
         title_align: center
       - image: images/logo-2.svg
         image_alt: Netlify logo
