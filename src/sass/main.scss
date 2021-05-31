@@ -47,3 +47,11 @@ div.navbar__menu.flex-md{
     justify-content: flex-end;
     }
 }
+
+// Action Button chnage
+a.btn{
+    background: transparent;
+    border: 1px solid lightgray;
+    border-radius: 0;
+    color: #1774ab;
+}
