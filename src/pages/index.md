@@ -37,6 +37,7 @@ sections:
       - image: images/el.png
         image_alt: Gatsby logo
         image_align: center
+        subtitle: Pipe Fitting
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
