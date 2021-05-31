@@ -11,13 +11,13 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "About us",
-                "url": "/pricing",
+                "label": "Home",
+                "url": "/features",
                 "style": "link"
             },
             {
-                "label": "Home",
-                "url": "/features",
+                "label": "About us",
+                "url": "/pricing",
                 "style": "link"
             },
             {
