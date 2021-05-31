@@ -53,11 +53,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "label": "Get Started",
-                "url": "/pricing",
-                "style": "primary"
             }
         ],
         "has_anncmnt": true,
