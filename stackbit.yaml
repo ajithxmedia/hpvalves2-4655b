@@ -751,14 +751,10 @@ models:
         name: grid_cols
         label: Grid columns
         options:
-          - label: two
-            value: two
-          - label: three
-            value: three
-          - label: four
-            value: four
-          - label: ''
-            value: ''
+          - two
+          - three
+          - four
+          - five
         default: three
         description: Show the specified number of items in a grid row
       - type: enum
