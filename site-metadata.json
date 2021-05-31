@@ -37,19 +37,7 @@
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
-                "label": "Certificates",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ],
+        "secondary_nav_links": [],
         "has_anncmnt": true,
         "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
         "anncmnt_align": "left",
