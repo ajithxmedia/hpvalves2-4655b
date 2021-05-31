@@ -8,7 +8,7 @@ sections:
     media_width: fourty
     align: left
     padding_top: small
-    padding_bottom: large
+    padding_bottom: small
     background_color: primary
     background_image: images/Home-Banner-R1-Background-1.jpg
     background_image_size: cover
