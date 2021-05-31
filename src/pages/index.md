@@ -27,6 +27,7 @@ sections:
         subtitle: Valve Fitting
         title_align: center
         image_position: top
+        image_has_padding: true
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
