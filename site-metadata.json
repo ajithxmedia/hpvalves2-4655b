@@ -58,7 +58,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Clients",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
