@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: images/Home-Banner-R1-Background-1.jpg
-    background_image_size: contain
+    background_image_size: cover
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
