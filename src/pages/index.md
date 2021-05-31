@@ -59,7 +59,9 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          ![](/\_static/app-assets/News.jpg)
+          ## News
+
+          ![](/\_static/app-assets/rainy-rabbit.jpg)
         content_align: center
         actions: []
         actions_align: left
