@@ -69,6 +69,7 @@ sections:
         image_align: center
         subtitle: Manifolds Valves
         title_align: center
+        image_has_padding: true
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
