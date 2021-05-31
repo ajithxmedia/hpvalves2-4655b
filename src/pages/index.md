@@ -155,7 +155,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: true
-    has_border: true
+    has_border: false
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
