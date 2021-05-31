@@ -43,6 +43,7 @@ sections:
       - image: images/Ermeto-Fittings-1.png
         image_alt: Sanity logo
         image_align: center
+        subtitle: Ermeto Fitting
       - image: images/logo-5.svg
         image_alt: DatoCMS logo
         image_align: center
