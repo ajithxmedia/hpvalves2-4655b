@@ -72,7 +72,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Ind
+      - title: Industries Serve
         title_align: left
         content_align: left
         actions: []
