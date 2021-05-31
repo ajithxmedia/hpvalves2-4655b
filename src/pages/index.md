@@ -18,7 +18,6 @@ sections:
     subtitle: Instrumentation Fittings
     content: "We are one of the pioneers in the manufacture of Tube Fittings, Pipe Fittings, Hose Fittings, Flare Fittings, Ermeto Fittings, Flanges. \n\t\t\t\t\t\t\t\n\n"
   - title: News Section
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
