@@ -56,6 +56,7 @@ sections:
         image_alt: Next.js logo
         image_align: center
         subtitle: Orbital Weld Fittings
+        title_align: center
       - image: images/logo-7.svg
         image_alt: Gridsome logo
         image_align: center
