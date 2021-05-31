@@ -2,10 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
+    actions: []
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
