@@ -100,7 +100,7 @@ sections:
     type: grid_section
   - type: grid_section
     title: Product Range
-    align: center
+    align: left
     grid_items:
       - image: images/1.png
         image_alt: Contentful logo
