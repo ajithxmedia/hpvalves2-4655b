@@ -59,7 +59,7 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          ## News
+          ### News
 
           ![](/\_static/app-assets/rainy-rabbit.jpg)
         content_align: center
