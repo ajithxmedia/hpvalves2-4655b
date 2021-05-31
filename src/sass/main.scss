@@ -64,6 +64,7 @@ div.navbar__menu.flex-md{
 @media (min-width: 961px){
     .section.section.hero + section .grid .cell-lg-4:nth-child(2){
         max-width:50% !important;
+        flex:inherit;
     }
     .section.section.hero + section .grid .cell-lg-4:nth-child(1),.section.section.hero + section .grid .cell-lg-4:nth-child(3){
         max-width:25% !important;
