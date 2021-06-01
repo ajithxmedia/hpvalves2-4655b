@@ -294,7 +294,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/GV1.png
-      - subtitle: lorem-ipsum
+      - subtitle: Gate Valve
         title_align: left
         content_align: left
         actions: []
