@@ -894,7 +894,7 @@ models:
             - action
         description: Action buttons displayed below section items
       - type: list
-        name: grid_items
+        name: custom_items
         label: Grid items
         items:
           type: model
