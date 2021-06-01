@@ -58,9 +58,8 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: |+
-          ### ![](/\_static/app-assets/News.jpg)
-
+        content: |
+          ###
         content_align: center
         actions: []
         actions_align: left
