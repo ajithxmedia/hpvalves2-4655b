@@ -176,7 +176,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/DBB-Valve.png
-        subtitle: 'DBB '
+        subtitle: DBB Valves
     grid_cols: five
     grid_gap_horiz: medium
     grid_gap_vert: medium
