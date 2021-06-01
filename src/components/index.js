@@ -25,6 +25,7 @@ import SectionActions from './SectionActions';
 import Layout from './Layout';
 
 export {
+    CustomGridItem,
     Action,
     Announcement,
     BlogFeedItemFilter,
@@ -51,6 +52,7 @@ export {
 };
 
 export default {
+    CustomGridItem,
     Action,
     Announcement,
     BlogFeedItemFilter,
