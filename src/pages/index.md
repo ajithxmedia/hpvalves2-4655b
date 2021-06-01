@@ -202,6 +202,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/Gauge-Cock.png
+        subtitle: Gauge-Cock
     grid_cols: five
     grid_gap_horiz: medium
     grid_gap_vert: medium
