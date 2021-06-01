@@ -54,7 +54,7 @@ export {
 
 export default {
     CustomGrid,
-    CustomGridItem,
+    CustomItems,
     Action,
     Announcement,
     BlogFeedItemFilter,
