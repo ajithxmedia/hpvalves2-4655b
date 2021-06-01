@@ -53,6 +53,7 @@ export {
 };
 
 export default {
+    CustomGrid,
     CustomGridItem,
     Action,
     Announcement,
