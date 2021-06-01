@@ -307,7 +307,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/GT.png
-      - subtitle: lorem-ipsum
+      - subtitle: Check Val
         title_align: center
         content_align: left
         actions: []
