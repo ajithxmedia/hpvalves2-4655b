@@ -25,7 +25,7 @@ import SectionActions from './SectionActions';
 import Layout from './Layout';
 
 export {
-    CustomGrid
+    CustomGrid,
     CustomGridItem,
     Action,
     Announcement,
