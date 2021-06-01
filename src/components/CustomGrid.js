@@ -3,6 +3,7 @@ import _ from 'lodash';
 
 import {classNames, toStyleObj, withPrefix} from '../utils';
 import GridItem from './GridItem';
+import CustomGridItem from './CustomGridItem';
 import SectionActions from './SectionActions';
 
 export default class GridSection extends React.Component {
