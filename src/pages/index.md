@@ -295,7 +295,7 @@ sections:
         type: grid_item
         image: images/GV1.png
       - subtitle: Gate Valve
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
