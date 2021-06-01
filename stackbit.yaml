@@ -872,7 +872,7 @@ models:
           - no-repeat
         default: no-repeat
         description: Repeat the image to cover the whole area
-  grid_item:
+  custom_item:
     type: object
     label: Item
     labelField: title
