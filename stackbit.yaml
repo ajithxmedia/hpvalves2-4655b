@@ -873,7 +873,7 @@ models:
         description: Repeat the image to cover the whole area
   custom_grid:
     type: object
-    label: Grid section
+    label: Custom Grid
     labelField: title
     fields:
       - type: string
