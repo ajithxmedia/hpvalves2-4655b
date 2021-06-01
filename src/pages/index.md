@@ -267,6 +267,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
+        image: images/High-Pressure-BV.png
     grid_cols: five
     grid_gap_horiz: medium
     grid_gap_vert: medium
