@@ -172,8 +172,6 @@ sections:
         type: grid_item
         image: images/pipe-fitting-manufacturer-IGCAR.jpg
       - title_align: left
-        content: >
-          ![](/\_static/app-assets/leading-valves-manufacturer-in-india-miu-valve-NLC-India-Ltd.jpg)
         content_align: left
         actions: []
         actions_align: left
