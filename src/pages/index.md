@@ -281,7 +281,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/Trunnion-Ball-Valve.png
-      - subtitle: lorem-ipsum
+      - subtitle: Globe Valve
         title_align: left
         content_align: left
         actions: []
