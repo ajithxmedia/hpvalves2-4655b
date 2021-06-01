@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import {classNames, toStyleObj, withPrefix} from '../utils';
-import CustomGrid from './CustomGrid';
+import CustomItems from './CustomGrid';
 import SectionActions from './SectionActions';
 
 export default class CustomGrid extends React.Component {
