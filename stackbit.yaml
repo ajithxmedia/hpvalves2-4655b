@@ -450,7 +450,6 @@ models:
             - hero_section
             - features_section
             - grid_section
-            - custom_grid
             - blog_feed_section
             - cta_section
             - form_section
@@ -746,7 +745,8 @@ models:
         label: Grid items
         items:
           type: model
-          models: []
+          models:
+            - grid_item
       - type: enum
         name: grid_cols
         label: Grid columns
