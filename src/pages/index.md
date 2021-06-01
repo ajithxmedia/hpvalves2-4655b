@@ -188,6 +188,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/Monoflange.png
     grid_cols: five
     grid_gap_horiz: medium
     grid_gap_vert: medium
