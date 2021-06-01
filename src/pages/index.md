@@ -230,6 +230,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/blue-anemone.jpg
     grid_cols: five
     grid_gap_vert: small
     grid_gap_horiz: small
