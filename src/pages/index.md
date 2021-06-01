@@ -255,7 +255,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/Ball-Valve.png
-      - subtitle: lorem-ipsum
+      - subtitle: High Pressure BV
         title_align: left
         content_align: left
         actions: []
