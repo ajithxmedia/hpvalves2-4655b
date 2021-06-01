@@ -746,8 +746,7 @@ models:
         label: Grid items
         items:
           type: model
-          models:
-            - grid_items
+          models: []
       - type: enum
         name: grid_cols
         label: Grid columns
