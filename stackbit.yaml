@@ -900,7 +900,7 @@ models:
         items:
           type: model
           models:
-            - custom_item
+            - grid_item
       - type: enum
         name: grid_cols
         label: Grid columns
