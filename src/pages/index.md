@@ -203,7 +203,7 @@ sections:
         type: grid_item
         image: images/Gauge-Cock.png
         subtitle: Gauge-Cock
-      - subtitle: lorem-ipsum
+      - subtitle: Needle Valve
         title_align: left
         content: >-
           ## Lorem ipsum
