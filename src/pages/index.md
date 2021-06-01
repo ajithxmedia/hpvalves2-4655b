@@ -203,8 +203,7 @@ sections:
         type: grid_item
         image: images/Gauge-Cock.png
         subtitle: Gauge-Cock
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
