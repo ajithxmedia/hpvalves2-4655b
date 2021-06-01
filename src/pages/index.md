@@ -151,7 +151,7 @@ sections:
         subtitle: Manifolds Valves
         title_align: center
         image_has_padding: true
-      - title_align: left
+      - title_align: center
         content_align: left
         actions: []
         actions_align: left
