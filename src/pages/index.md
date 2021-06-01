@@ -190,7 +190,7 @@ sections:
         type: grid_item
         image: images/Monoflange.png
         subtitle: Monoflange Valves
-      - subtitle: lorem-ipsum
+      - subtitle: lorem-ipsu
         title_align: left
         content: >-
           ## Lorem ipsum
