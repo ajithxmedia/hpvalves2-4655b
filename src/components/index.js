@@ -26,7 +26,7 @@ import Layout from './Layout';
 
 export {
     CustomGrid,
-    CustomGridItem,
+    CustomItems,
     Action,
     Announcement,
     BlogFeedItemFilter,
