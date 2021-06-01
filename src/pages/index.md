@@ -156,7 +156,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: true
     has_border: false
-  - title: lorem-ipsum
+  - title: Clients
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
