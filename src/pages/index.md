@@ -268,7 +268,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/High-Pressure-BV.png
-      - subtitle: lorem-ipsum
+      - subtitle: Trunnion-Ball-Valve
         title_align: center
         content_align: left
         actions: []
