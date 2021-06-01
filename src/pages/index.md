@@ -320,7 +320,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/dd.png
-      - subtitle: lorem-ipsum
+      - subtitle: Relief-Valve
         title_align: center
         content_align: left
         actions: []
