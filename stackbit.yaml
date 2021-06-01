@@ -872,6 +872,112 @@ models:
           - no-repeat
         default: no-repeat
         description: Repeat the image to cover the whole area
+  grid_item:
+    type: object
+    label: Item
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the item
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the item displayed below the title
+      - type: enum
+        name: title_align
+        label: Title, subtitle alignment
+        options:
+          - left
+          - right
+          - center
+        default: left
+        description: The horizontal alignment of the item title and subtitle
+      - type: markdown
+        name: content
+        label: Content
+        description: The text content of the item
+      - type: enum
+        name: content_align
+        label: Content alignment
+        options:
+          - left
+          - right
+          - center
+        default: left
+        description: The horizontal alignment of the item text content
+      - type: list
+        name: actions
+        label: Action buttons
+        items:
+          type: model
+          models:
+            - action
+      - type: enum
+        name: actions_align
+        label: Action buttons alignment
+        options:
+          - left
+          - right
+          - center
+        default: left
+        description: The horizontal alignment of the item action buttons
+      - type: enum
+        name: actions_width
+        label: Action buttons width
+        options:
+          - auto
+          - full-width
+        default: auto
+        description: The width of action button
+      - type: image
+        name: image
+        label: Image
+        description: The image of the item
+      - type: string
+        name: image_alt
+        label: Image alt text
+        description: The alt text of the item image
+      - type: enum
+        name: image_position
+        label: Image position
+        options:
+          - left
+          - right
+          - top
+          - bottom
+        default: top
+        description: The position of the image relative to the text content
+      - type: enum
+        name: image_width
+        label: Image container width
+        options:
+          - twenty-five
+          - thirty-three
+          - fourty
+          - fifty
+          - sixty
+        default: fifty
+        description: >-
+          The image container width as a percentage of the item width. Used only
+          when the image position is set to "left" or "right"
+      - type: enum
+        name: image_align
+        label: Image alignment
+        options:
+          - left
+          - right
+          - center
+        default: left
+        description: The horizontal alignment of the image
+      - type: boolean
+        name: image_has_padding
+        label: Image padding
+        default: false
+        description: >-
+          Add padding (space) around the image. Used only when "Enable cards" is
+          set to true
   custom_grid:
     type: object
     label: Custom Grid
