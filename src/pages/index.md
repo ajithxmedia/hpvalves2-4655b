@@ -217,7 +217,7 @@ sections:
         type: grid_item
         image: images/Needle-Valve.png
       - subtitle: High Pressure NV
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
