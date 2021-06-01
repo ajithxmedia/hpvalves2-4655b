@@ -4,7 +4,7 @@ import _ from 'lodash';
 import {classNames, withPrefix, markdownify} from '../utils';
 import SectionActions from './SectionActions';
 
-export default class GridItem extends React.Component {
+export default class CustomGridItem extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         let item = _.get(this.props, 'item', null);
