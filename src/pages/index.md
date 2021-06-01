@@ -256,7 +256,7 @@ sections:
         type: grid_item
         image: images/Ball-Valve.png
       - subtitle: High Pressure BV
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
