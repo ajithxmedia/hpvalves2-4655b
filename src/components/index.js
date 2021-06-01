@@ -15,7 +15,7 @@ import FormField from './FormField';
 import FormSection from './FormSection';
 import GridItem from './GridItem';
 import GridSection from './GridSection';
-import CustomGridItem from './CustomGridItem';
+import CustomItems from './CustomItems';
 import CustomGrid from './CustomGrid';
 import Header from './Header';
 import HeaderMenu from './HeaderMenu';
