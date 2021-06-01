@@ -242,7 +242,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/sn.png
-      - subtitle: lorem-ipsum
+      - subtitle: Ball Valve
         title_align: left
         content: >-
           ## Lorem ipsum
