@@ -307,7 +307,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/GT.png
-      - subtitle: Check Val
+      - subtitle: Check Valve
         title_align: center
         content_align: left
         actions: []
