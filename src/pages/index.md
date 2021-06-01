@@ -177,8 +177,7 @@ sections:
         type: grid_item
         image: images/DBB-Valve.png
         subtitle: DBB Valves
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
