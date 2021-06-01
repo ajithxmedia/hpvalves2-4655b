@@ -5,7 +5,7 @@ import {classNames, toStyleObj, withPrefix} from '../utils';
 import CustomGridItem from './CustomGridItem';
 import SectionActions from './SectionActions';
 
-export default class GridSection extends React.Component {
+export default class CustomGridSection extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         let align_x = _.get(section, 'align', null) || 'center';
