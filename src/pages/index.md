@@ -160,8 +160,6 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: |
-          ![](/\_static/app-assets/manifold-valves-reliance.jpg)
         content_align: center
         actions: []
         actions_align: left
