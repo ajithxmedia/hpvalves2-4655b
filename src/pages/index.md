@@ -165,7 +165,6 @@ sections:
         image: images/Coplanar-Type.png
         subtitle: Coplanar Valves
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
