@@ -170,7 +170,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/pipe-fitting-manufacturer-IGCAR.jpg
+        image: images/happy-paprika.jpg
       - title_align: left
         content_align: left
         actions: []
