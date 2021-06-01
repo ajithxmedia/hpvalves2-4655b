@@ -38,7 +38,7 @@ export default class CustomGrid extends React.Component {
             	<div className="container">
             		<div className={classNames('grid grid56', {'grid-gap-small': grid_gap_x === 'small', 'grid-gap-large': grid_gap_x === 'large'})}>
             			{_.map(_.get(section, 'grid_items', null), (item, item_idx) => (
-            				<CustomGridItem key={item_idx} {...this.props} section={section} item={item} />
+            				<CustomGrid key={item_idx} {...this.props} section={section} item={item} />
             			))}
             		</div>
             	</div>
