@@ -216,7 +216,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/Needle-Valve.png
-      - subtitle: lorem-ipsum
+      - subtitle: High Pressure NV
         title_align: left
         content_align: left
         actions: []
