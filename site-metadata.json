@@ -108,7 +108,6 @@
         "anncmnt_id": "new-features"
     },
     "footer": {
-        "logo": "images/classic/logo.svg",
         "logo_alt": "DIY logo",
         "has_primary_nav": false,
         "primary_nav_title": "Company",
