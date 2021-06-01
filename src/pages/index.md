@@ -333,7 +333,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/Relief-Valve.png
-      - subtitle: lorem-ipsum
+      - subtitle: Air-Filter-Regulator
         title_align: center
         content_align: left
         actions: []
