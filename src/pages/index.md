@@ -229,7 +229,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/High-Pressure-NV.png
-      - subtitle: lorem-ipsum
+      - subtitle: Snubber
         title_align: left
         content: >-
           ## Lorem ipsum
