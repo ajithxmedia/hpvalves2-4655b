@@ -216,8 +216,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: |
-          ![](/\_static/app-assets/globe-power-manufacturer-vrv.jpg)
         content_align: left
         actions: []
         actions_align: left
