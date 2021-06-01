@@ -873,11 +873,11 @@ models:
         default: no-repeat
         description: Repeat the image to cover the whole area
  
-  custom_grid:
+  :
     type: object
     label: Custom Grid
     labelField: title
-    fields:
+  custom_grid  fields:
       - type: string
         name: title
         label: Title
