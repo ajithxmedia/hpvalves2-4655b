@@ -871,7 +871,7 @@ models:
           - no-repeat
         default: no-repeat
         description: Repeat the image to cover the whole area
-  grid_section:
+  custom_grid:
     type: object
     label: Grid section
     labelField: title
