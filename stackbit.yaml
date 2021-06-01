@@ -458,8 +458,6 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-    singleInstance: true
-    file: ''
   hero_section:
     type: object
     label: Hero section
