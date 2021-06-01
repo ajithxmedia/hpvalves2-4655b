@@ -156,6 +156,65 @@ sections:
     grid_gap_vert: medium
     enable_cards: true
     has_border: false
+        type: grid_section
+  - type: grid_section
+    title: Product Range
+    align: center
+    grid_items:
+      - image: images/1.png
+        image_alt: Contentful logo
+        image_align: center
+        subtitle: Valve Fitting
+        title_align: center
+        image_position: top
+        image_has_padding: true
+      - image: images/mc-1.png
+        image_alt: Netlify logo
+        image_align: center
+        subtitle: Tube Fitting
+        title_align: center
+        image_has_padding: true
+      - image: images/el.png
+        image_alt: Gatsby logo
+        image_align: center
+        subtitle: Pipe Fitting
+        image_has_padding: true
+        title_align: center
+      - image: images/Ermeto-Fittings-1.png
+        image_alt: Sanity logo
+        image_align: center
+        subtitle: Ermeto Fitting
+        title_align: center
+        image_has_padding: true
+      - image: images/Flare-Fittings.png
+        image_alt: DatoCMS logo
+        image_align: center
+        subtitle: Flare Fittings
+        title_align: center
+        image_has_padding: true
+      - image: images/Orbital-Weld-Fittings.png
+        image_alt: Next.js logo
+        image_align: center
+        subtitle: Orbital Weld Fittings
+        title_align: center
+        image_has_padding: true
+      - image: images/Butt-Weld-Fittings.png
+        image_alt: Gridsome logo
+        image_align: center
+        subtitle: Butt Weld Fittings
+        title_align: center
+        image_has_padding: true
+      - image: images/Valve-Manifolds.png
+        image_alt: Git logo
+        image_align: center
+        subtitle: Manifolds Valves
+        title_align: center
+        image_has_padding: true
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+    enable_cards: true
+    has_border: false
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
