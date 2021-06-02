@@ -1934,6 +1934,26 @@ models:
       - name: image_width
         type: enum
         options:
-          - label: ''
-            value: ''
+          - twenty-five
+          - thirty-three
+          - fourty
+          - fifty
+          - sixty
         label: Image container width
+        default: fifty
+      - name: image_align
+        type: enum
+        options:
+          - left
+          - right
+          - center
+        label: Image alignment
+        description: The horizontal alignment of the image
+        default: left
+      - name: image_has_padding
+        type: boolean
+        label: Image padding
+        description: >-
+          Add padding (space) around the image. Used only when "Enable cards" is
+          set to true
+        default: false
