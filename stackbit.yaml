@@ -1805,3 +1805,4 @@ models:
       - name: background_image
         type: image
         label: Background image
+        description: The image displayed in the background of the section
