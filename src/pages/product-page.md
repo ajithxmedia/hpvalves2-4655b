@@ -153,8 +153,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/20-3WAY-VALVE-MANIFOLD-H-TYPE-1-350x238.png
-      - title: lorem-ipsum
-        subtitle: 5 Way 'F' Type (Separate Mounting)
+      - subtitle: 5 Way 'F' Type (Separate Mounting)
         title_align: left
         content_align: left
         actions: []
