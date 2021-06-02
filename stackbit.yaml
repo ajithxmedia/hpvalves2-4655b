@@ -1824,14 +1824,24 @@ models:
       - name: background_image_position
         type: enum
         options:
-          - left top
-          - left center
-          - left bottom
-          - center top
-          - center center
-          - center bottom
-          - right top
-          - right center
+          - label: left top
+            value: left top
+          - label: left center
+            value: left center
+          - label: left bottom
+            value: left bottom
+          - label: center top
+            value: center top
+          - label: center center
+            value: center center
+          - label: center bottom
+            value: center bottom
+          - label: right top
+            value: right top
+          - label: right center
+            value: right center
+          - label: ''
+            value: ''
         label: Background image position
         description: >-
           The starting position of a background image. The first value is the
