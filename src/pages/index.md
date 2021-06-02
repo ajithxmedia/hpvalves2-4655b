@@ -1093,14 +1093,14 @@ models:
         default: three
         description: Show the specified number of items in a grid row
         - type: enum
-            name: grid_gap_vert
-            label: Grid gap vertical
-            options:
-            - small
-            - medium
-            - large
-            default: small
-            description: The vertical spacing between grid items
+        name: grid_gap_vert
+        label: Grid gap vertical
+        options:
+        - small
+        - medium
+        - large
+        default: small
+        description: The vertical spacing between grid items
         - type: enum
             name: grid_gap_horiz
             label: Grid gap horizontal
