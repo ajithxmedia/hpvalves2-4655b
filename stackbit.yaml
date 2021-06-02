@@ -1937,4 +1937,3 @@ models:
           - label: ''
             value: ''
         label: Image container width
-        default: fifty
