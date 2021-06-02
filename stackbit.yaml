@@ -1855,6 +1855,6 @@ models:
         type: string
         label: Title
         description: The title of the item
-      - name: ''
+      - name: 'subtitle '
         type: string
         description: The subtitle of the item displayed below the title
