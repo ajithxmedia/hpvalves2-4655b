@@ -1904,3 +1904,4 @@ models:
             value: ''
         label: Action buttons width
         description: The width of action button
+        default: auto
