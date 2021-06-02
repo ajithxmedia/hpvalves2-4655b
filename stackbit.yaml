@@ -1938,12 +1938,9 @@ models:
       - name: image_align
         type: enum
         options:
-          - label: left
-            value: left
-          - label: right
-            value: right
-          - label: ''
-            value: ''
+          - left
+          - right
+          - center
         label: Image alignment
         description: The horizontal alignment of the image
         default: left
