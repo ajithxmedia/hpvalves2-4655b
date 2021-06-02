@@ -1875,6 +1875,8 @@ models:
       - name: content_align
         type: enum
         options:
+          - label: left
+            value: left
           - label: ''
             value: ''
         label: Content alignment
