@@ -1725,6 +1725,8 @@ models:
       - name: grid_cols
         type: enum
         options:
+          - label: two
+            value: two
           - label: ''
             value: ''
         label: Grid columns
