@@ -1934,6 +1934,8 @@ models:
       - name: image_width
         type: enum
         options:
+          - label: twenty-five
+            value: twenty-five
           - label: ''
             value: ''
         label: Image container width
