@@ -1761,14 +1761,10 @@ models:
       - name: image_position
         type: enum
         options:
-          - label: left
-            value: left
-          - label: right
-            value: right
-          - label: top
-            value: top
-          - label: ''
-            value: ''
+          - left
+          - right
+          - top
+          - bottom
         label: Image position
         description: The position of the image relative to the text content
         default: top
