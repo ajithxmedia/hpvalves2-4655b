@@ -1845,3 +1845,4 @@ models:
             value: ''
         label: Background image repeat
         description: Repeat the image to cover the whole area
+        default: no-repeat
