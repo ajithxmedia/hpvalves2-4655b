@@ -175,7 +175,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
-        image_align: left
+        image_align: center
         image_has_padding: false
         type: grid_item
         image: images/5-Way-T-with-Drain_1-350x238.png
