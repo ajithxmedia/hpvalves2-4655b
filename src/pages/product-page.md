@@ -48,7 +48,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         type: grid_item
         image: images/15-2WAY-VALVE-MANIFOLD-ANGLE-TYPE-350x238.png
     grid_cols: three
