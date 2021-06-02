@@ -5,7 +5,7 @@ import {classNames, toStyleObj, withPrefix} from '../utils';
 import ProductItem from './ProductItem';
 import SectionActions from './SectionActions';
 
-export default class GridSection extends React.Component {
+export default class ProductGrid extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         let align_x = _.get(section, 'align', null) || 'center';
