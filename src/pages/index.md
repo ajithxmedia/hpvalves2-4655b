@@ -1068,13 +1068,13 @@ models:
         label: Subtitle
         description: The subtitle of the section displayed above the title
         - type: list
-            name: actions
-            label: Action buttons
-            items:
-            type: model
-            models:
-                - action
-            description: Action buttons displayed below section items
+        name: actions
+        label: Action buttons
+        items:
+        type: model
+        models:
+            - action
+        description: Action buttons displayed below section items
         - type: list
             name: product_item
             label: Grid items
