@@ -87,6 +87,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
+        image: images/HP206GV-350x238.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
