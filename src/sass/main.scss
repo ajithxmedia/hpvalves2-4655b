@@ -84,7 +84,13 @@ div.navbar__menu.flex-md{
     .item__actions{
         margin:0;
     }
-    .item__actions.btn-group{}
+    .item__actions.btn-group{
+        a.btn{
+            color: #1774ab;
+    text-align: left;
+    font-weight: 500;
+        }
+    }
 }
 
 // common
