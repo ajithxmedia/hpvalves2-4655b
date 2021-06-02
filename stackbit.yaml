@@ -1705,4 +1705,7 @@ models:
         label: Subtitle
         description: The subtitle of the item displayed below the title
       - name: title_align
-        type: string
+        type: enum
+        options:
+          - label: ''
+            value: ''
