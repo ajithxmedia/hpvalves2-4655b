@@ -1756,3 +1756,4 @@ models:
         description: The image of the item
       - name: image_alt
         type: string
+        label: Image alt text
