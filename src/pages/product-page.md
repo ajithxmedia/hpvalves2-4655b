@@ -167,7 +167,7 @@ sections:
         type: grid_item
         image: images/5-Way-350x238.png
       - subtitle: 5 Way 'T' Type (Integral Mounting)
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
