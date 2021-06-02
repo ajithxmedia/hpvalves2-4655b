@@ -1717,5 +1717,5 @@ models:
         type: markdown
         label: Content
         description: The text content of the item
-      - name: ''
+      - name: content_align
         type: string
