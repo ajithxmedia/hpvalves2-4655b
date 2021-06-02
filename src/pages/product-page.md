@@ -141,7 +141,7 @@ sections:
         type: grid_item
         image: images/19-3WAY-VALVE-MANIFOLD-T-TYPE-WITH-DRAIN577B9564-350x238.png
       - subtitle: 3 Way 'H' Type (Integral Mounting)
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
