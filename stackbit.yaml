@@ -1744,12 +1744,9 @@ models:
       - name: grid_gap_horiz
         type: enum
         options:
-          - label: small
-            value: small
-          - label: medium
-            value: medium
-          - label: ''
-            value: ''
+          - small
+          - medium
+          - large
         label: Grid gap horizontal
         description: The horizontal spacing between grid items
         default: small
