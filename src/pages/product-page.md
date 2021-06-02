@@ -61,6 +61,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/13-2WAY-VALVE-MANIFOLD-GAUGE-TYPE-F-X-F-350x238.png
       - title: lorem-ipsum
         subtitle: 2 Way - Gauge Type (F) X (F)
         title_align: left
