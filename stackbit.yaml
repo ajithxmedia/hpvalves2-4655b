@@ -1771,6 +1771,8 @@ models:
       - name: padding_top
         type: enum
         options:
+          - label: none
+            value: none
           - label: ''
             value: ''
         label: Section top padding
