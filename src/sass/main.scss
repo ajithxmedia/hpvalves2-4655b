@@ -96,7 +96,8 @@ div.navbar__menu.flex-md{
 // Products List Grid
 .product_range{
     .item.card{
-        padding: 15px;
+        padding: 15px 10px 10px 10px;
+        border-radius: 0;
     }
     .item__body p{
         margin-bottom:0;
