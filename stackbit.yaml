@@ -1934,12 +1934,6 @@ models:
       - name: image_width
         type: enum
         options:
-          - twenty-five
-          - thirty-three
-          - fourty
-          - fifty
-          - sixty
+          - label: ''
+            value: ''
         label: Image container width
-        default: fifty
-      - name: ''
-        type: string
