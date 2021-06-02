@@ -12,7 +12,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     product_grid_items:
-      - subtitle: lorem-ipsum
+      - subtitle: 2 Way 'F' Type (Block & Bleed)
         title_align: left
         content_align: left
         actions: []
