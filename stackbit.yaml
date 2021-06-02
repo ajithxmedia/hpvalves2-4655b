@@ -1700,5 +1700,5 @@ models:
         type: string
         label: 'Title '
         description: Title of the field
-      - name: subtitle
+      - name: Subtitle
         type: string
