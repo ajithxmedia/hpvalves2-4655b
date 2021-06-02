@@ -1914,4 +1914,7 @@ models:
         label: Image alt text
         description: The alt text of the item image
       - name: image_position
-        type: string
+        type: enum
+        options:
+          - label: ''
+            value: ''
