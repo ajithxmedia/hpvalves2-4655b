@@ -136,7 +136,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
-        image_align: left
+        image_align: center
         image_has_padding: true
         type: grid_item
         image: images/19-3WAY-VALVE-MANIFOLD-T-TYPE-WITH-DRAIN577B9564-350x238.png
