@@ -1817,6 +1817,8 @@ models:
         options:
           - label: cover
             value: cover
+          - label: auto
+            value: auto
           - label: ''
             value: ''
         label: Background image size
