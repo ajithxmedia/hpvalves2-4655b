@@ -22,7 +22,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         type: product_grid_item
         image: images/Valve-Manifolds-350x238.png
       - title: lorem-ipsum
