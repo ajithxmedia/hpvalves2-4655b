@@ -1758,4 +1758,7 @@ models:
           around the item content
         default: false
       - name: align
-        type: string
+        type: enum
+        options:
+          - label: ''
+            value: ''
