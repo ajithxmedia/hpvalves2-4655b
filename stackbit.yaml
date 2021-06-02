@@ -1703,7 +1703,9 @@ models:
         type: model
         models:
           - product_grid
+        label: Product Grid
       - name: grid_section
         type: model
         models:
           - grid_section
+        label: Grid Section
