@@ -1695,3 +1695,9 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+  product_grid:
+    type: object
+    label: Product Grid Section
+    fields:
+      - name: ''
+        type: string
