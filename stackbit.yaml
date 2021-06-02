@@ -1709,6 +1709,8 @@ models:
         options:
           - label: left
             value: left
+          - label: right
+            value: right
           - label: ''
             value: ''
         label: Title, subtitle alignment
