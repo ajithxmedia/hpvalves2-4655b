@@ -1847,3 +1847,6 @@ models:
         label: Background image repeat
         description: Repeat the image to cover the whole area
         default: no-repeat
+  product_grid_item:
+    type: object
+    label: product_grid_item
