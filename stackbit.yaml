@@ -1698,3 +1698,6 @@ models:
   product_grid:
     type: object
     label: product_grid
+    fields:
+      - name: ''
+        type: string
