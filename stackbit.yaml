@@ -1765,3 +1765,4 @@ models:
             value: ''
         label: Image position
         description: The position of the image relative to the text content
+        default: top
