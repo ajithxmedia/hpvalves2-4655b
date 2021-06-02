@@ -1848,7 +1848,7 @@ models:
         label: Background image repeat
         description: Repeat the image to cover the whole area
         default: no-repeat
-      - name: ''
+      - name: tabs_items
         type: string
   product_grid_item:
     type: object
