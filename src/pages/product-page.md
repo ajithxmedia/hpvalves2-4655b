@@ -149,7 +149,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: 5 Way 'F' Type (Separate Mounting)
         title_align: left
         content_align: left
         actions: []
