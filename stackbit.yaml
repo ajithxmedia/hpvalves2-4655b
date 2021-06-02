@@ -1780,4 +1780,6 @@ models:
         default: medium
       - name: padding_bottom
         type: enum
-        options: []
+        options:
+          - label: ''
+            value: ''
