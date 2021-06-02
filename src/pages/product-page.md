@@ -25,8 +25,7 @@ sections:
         image_has_padding: true
         type: product_grid_item
         image: images/Valve-Manifolds-350x238.png
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
