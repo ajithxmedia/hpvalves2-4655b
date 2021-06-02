@@ -1754,3 +1754,5 @@ models:
         type: image
         label: image
         description: The image of the item
+      - name: ''
+        type: string
