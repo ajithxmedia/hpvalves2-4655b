@@ -89,7 +89,7 @@ sections:
         type: grid_item
         image: images/HP206GV-350x238.png
       - subtitle: 3 Way 'F' Type (Separate Mounting)
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
