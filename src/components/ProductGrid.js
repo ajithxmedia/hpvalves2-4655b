@@ -39,7 +39,7 @@ export default class ProductGrid extends React.Component {
                 <div className="container">
                     <div className={classNames('grid','grid-gap-small')}>
                         {/*Left Container  */}
-                        <div className={classNames('cell-12', 'cell-md-6','cell-lg-6','cell-sm-12','my-1')}>
+                        <div className={classNames('cell-12', 'cell-md-3','cell-lg-3','cell-sm-12','my-1')}>
                             fgdfgdfgdfgdf
                         </div>
                         {/* Right Container */}
