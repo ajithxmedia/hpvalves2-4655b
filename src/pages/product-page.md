@@ -76,7 +76,7 @@ sections:
         type: grid_item
         image: images/2-Way-Gauge-with-drain1_1-350x238.png
       - subtitle: 2 Way - Gauge Type (M) X (F)
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
