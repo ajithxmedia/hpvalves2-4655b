@@ -39,7 +39,7 @@ sections:
         type: product_grid_item
         image: images/12-2WAY-VALVE-MANIFOLD-T-TYPE-1-350x238.png
       - subtitle: 2 Way Angle Type
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
