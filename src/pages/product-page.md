@@ -37,6 +37,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: product_grid_item
+        image: images/12-2WAY-VALVE-MANIFOLD-T-TYPE-1-350x238.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
