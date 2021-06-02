@@ -1872,5 +1872,8 @@ models:
         type: markdown
         label: Content
         description: The text content of the item
-      - name: ''
-        type: string
+      - name: content_align
+        type: enum
+        options:
+          - label: ''
+            value: ''
