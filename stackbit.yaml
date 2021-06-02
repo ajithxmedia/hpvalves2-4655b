@@ -1750,5 +1750,5 @@ models:
         label: Action buttons width
         description: The width of action button
         default: auto
-      - name: ''
-        type: string
+      - name: image
+        type: image
