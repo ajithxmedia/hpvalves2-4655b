@@ -1737,6 +1737,8 @@ models:
         options:
           - label: small
             value: small
+          - label: medium
+            value: medium
           - label: ''
             value: ''
         label: Grid gap vertical
