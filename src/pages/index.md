@@ -1102,21 +1102,21 @@ models:
         default: small
         description: The vertical spacing between grid items
         - type: enum
-            name: grid_gap_horiz
-            label: Grid gap horizontal
-            options:
-            - small
-            - medium
-            - large
-            default: small
-            description: The horizontal spacing between grid items
+        name: grid_gap_horiz
+        label: Grid gap horizontal
+        options:
+        - small
+        - medium
+        - large
+        default: small
+        description: The horizontal spacing between grid items
         - type: boolean
-            name: enable_cards
-            label: Enable cards
-            description: >-
-            Display items as cards, i.e. add border, background and some padding
-            around the item content
-            default: false
+        name: enable_cards
+        label: Enable cards
+        description: >-
+        Display items as cards, i.e. add border, background and some padding
+        around the item content
+        default: false
         - type: enum
             name: align
             label: Section alignment
