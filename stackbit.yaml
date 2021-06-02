@@ -1951,4 +1951,4 @@ models:
         description: The horizontal alignment of the image
         default: left
       - name: image_has_padding
-        type: string
+        type: boolean
