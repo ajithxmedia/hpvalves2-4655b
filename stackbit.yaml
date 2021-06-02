@@ -1858,3 +1858,4 @@ models:
       - name: 'subtitle '
         type: string
         description: The subtitle of the item displayed below the title
+        label: Subtitle
