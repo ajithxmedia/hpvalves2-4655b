@@ -1182,30 +1182,30 @@ models:
         default: cover
         description: The size of the background image
         - type: enum
-            name: background_image_position
-            label: Background image position
-            options:
-            - left top
-            - left center
-            - left bottom
-            - center top
-            - center center
-            - center bottom
-            - right top
-            - right center
-            - right bottom
-            default: center center
-            description: >-
-            The starting position of a background image. The first value is the
-            horizontal position, and the second value is the vertical
+        name: background_image_position
+        label: Background image position
+        options:
+        - left top
+        - left center
+        - left bottom
+        - center top
+        - center center
+        - center bottom
+        - right top
+        - right center
+        - right bottom
+        default: center center
+        description: >-
+        The starting position of a background image. The first value is the
+        horizontal position, and the second value is the vertical
         - type: enum
-            name: background_image_repeat
-            label: Background image repeat
-            options:
-            - repeat
-            - no-repeat
-            default: no-repeat
-            description: Repeat the image to cover the whole area
+        name: background_image_repeat
+        label: Background image repeat
+        options:
+        - repeat
+        - no-repeat
+        default: no-repeat
+        description: Repeat the image to cover the whole area
         - name: class
             type: string
             label: class name
