@@ -191,6 +191,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
+        image: images/5-Way-H-Type-350x238.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
