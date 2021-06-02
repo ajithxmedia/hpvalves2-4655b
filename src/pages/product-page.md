@@ -206,6 +206,16 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: product_grid
+    tabs_items:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
 seo:
   title: About
   description: This is the about us page
