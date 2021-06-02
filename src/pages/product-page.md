@@ -7,6 +7,7 @@ sections:
     background_color: secondary
     padding_top: small
     padding_bottom: small
+    class_name: banner_section
   - type: grid_section
     title: Our Officess
     grid_items:
