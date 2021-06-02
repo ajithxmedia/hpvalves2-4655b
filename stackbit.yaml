@@ -1748,3 +1748,4 @@ models:
             value: ''
         label: Grid gap horizontal
         description: The horizontal spacing between grid items
+        default: small
