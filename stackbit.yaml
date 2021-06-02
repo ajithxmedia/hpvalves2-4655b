@@ -1950,3 +1950,5 @@ models:
         label: Image alignment
         description: The horizontal alignment of the image
         default: left
+      - name: ''
+        type: string
