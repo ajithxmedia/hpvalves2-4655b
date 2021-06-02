@@ -39,7 +39,7 @@ export default class ProductGrid extends React.Component {
                 // Left Tab Section
                 <div className="container">
                     <div className={classNames('grid','grid-gap-small')}>
-                        <div className={classNames('cell-12', 'cell-md-6','cell-lg-6', {'cell-lg-4': (columns === 'three') || (columns === 'four'),'cell-lg-3': (columns === 'five') , 'cell-xl-3': columns === 'four','cell-xl-2': columns === 'five', 'my-1': gap_y === 'small', 'my-2': gap_y !== 'small', 'my-sm-3': gap_y === 'large'})}>
+                        <div className={classNames('cell-12', 'cell-md-6','cell-lg-6', {,'cell-lg-3': (columns === 'five') , 'cell-xl-3': columns === 'four','cell-xl-2': columns === 'five', 'my-1': gap_y === 'small', 'my-2': gap_y !== 'small', 'my-sm-3': gap_y === 'large'})}>
                     </div>
                 </div>
             	{_.get(section, 'product_grid_items', null) && (
