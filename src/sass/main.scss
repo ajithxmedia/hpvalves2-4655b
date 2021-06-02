@@ -53,7 +53,7 @@ div.navbar__menu.flex-md{
 
 // Grid customize
 @media (min-width: 961px){
-    section news_Grid .grid .cell-lg-4:nth-child(2){
+    .section.news_Grid .grid .cell-lg-4:nth-child(2){
         max-width:50% !important;
         flex:inherit;
     }
