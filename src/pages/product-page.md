@@ -113,6 +113,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/17-3WAY-VALVE-MANIFOLD-F-TYPE-WITH-DRAIN-350x238.png
       - subtitle: 3 Way 'T' Type (Integral Mounting)
         title_align: left
         content_align: left
