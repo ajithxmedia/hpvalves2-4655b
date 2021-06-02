@@ -39,7 +39,7 @@ export default class ProductGrid extends React.Component {
             	<div className="container">
             		<div className={classNames('grid', {'grid-gap-small': grid_gap_x === 'small', 'grid-gap-large': grid_gap_x === 'large'})}>
             			{_.map(_.get(section, 'grid_items', null), (item, item_idx) => (
-            				<GridItem key={item_idx} {...this.props} section={section} item={item} />
+            				<ProductItem key={item_idx} {...this.props} section={section} item={item} />
             			))}
             		</div>
             	</div>
