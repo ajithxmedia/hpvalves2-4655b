@@ -1701,4 +1701,5 @@ models:
     fields:
       - name: ''
         type: model
-        models: []
+        models:
+          - product_grid
