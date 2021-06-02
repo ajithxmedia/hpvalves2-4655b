@@ -1891,12 +1891,9 @@ models:
       - name: actions_align
         type: enum
         options:
-          - label: left
-            value: left
-          - label: right
-            value: right
-          - label: ''
-            value: ''
+          - left
+          - right
+          - center
         label: Action buttons alignment
         description: The horizontal alignment of the item action buttons
         default: left
