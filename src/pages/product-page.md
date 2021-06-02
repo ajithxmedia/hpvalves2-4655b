@@ -59,7 +59,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: center
-        image_has_padding: false
+        image_has_padding: true
         type: grid_item
         image: images/13-2WAY-VALVE-MANIFOLD-GAUGE-TYPE-F-X-F-350x238.png
       - title: lorem-ipsum
