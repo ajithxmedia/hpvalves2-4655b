@@ -1739,3 +1739,4 @@ models:
             value: ''
         label: Grid gap vertical
         description: The vertical spacing between grid items
+        default: small
