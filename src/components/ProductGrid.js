@@ -7,6 +7,7 @@ import SectionActions from './SectionActions';
 
 export default class ProductGrid extends React.Component {
     render() {
+        console.log(this.props);
         let section = _.get(this.props, 'section', null);
         let align_x = _.get(section, 'align', null) || 'center';
         let padding_top = _.get(section, 'padding_top', null) || 'medium';
