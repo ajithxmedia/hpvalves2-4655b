@@ -1694,4 +1694,4 @@ models:
               label: Relative Url
   product_item:
     type: object
-    label: product_item
+    label: item
