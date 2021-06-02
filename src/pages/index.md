@@ -1163,9 +1163,9 @@ models:
         default: none
         description: The background color of the section
         - type: image
-            name: background_image
-            label: Background image
-            description: The image displayed in the background of the section
+        name: background_image
+        label: Background image
+        description: The image displayed in the background of the section
         - type: number
             name: background_image_opacity
             label: Background image opacity
