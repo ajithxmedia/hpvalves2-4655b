@@ -207,7 +207,7 @@ sections:
     background_image_repeat: no-repeat
     type: product_grid
     tabs_items:
-      - label: lorem-ipsum
+      - label: button 1
         url: '#'
         style: link
         has_icon: false
