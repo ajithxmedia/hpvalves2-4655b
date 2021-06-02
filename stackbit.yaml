@@ -1850,3 +1850,6 @@ models:
   product_grid_item:
     type: object
     label: Product Grid Item
+    fields:
+      - name: ''
+        type: string
