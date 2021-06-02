@@ -1703,3 +1703,4 @@ models:
       - name: Subtitle
         type: string
         label: Subtitle
+        description: The subtitle of the item displayed below the title
