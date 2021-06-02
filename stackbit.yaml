@@ -1521,6 +1521,7 @@ models:
           - fourty
           - fifty
           - sixty
+          - sixty
         default: fifty
         description: >-
           The image container width as a percentage of the item width. Used only
@@ -1926,14 +1927,6 @@ models:
       - name: image_width
         type: enum
         options:
-          - twenty-five
-          - thirty-three
-          - fourty
-          - fifty
+          - label: ''
+            value: ''
         label: Image container width
-        description: >-
-          The image container width as a percentage of the item width. Used only
-          when the image position is set to "left" or "right"
-        default: fifty
-      - name: ''
-        type: string
