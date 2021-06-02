@@ -13,7 +13,7 @@ sections:
     actions: []
     product_grid_items:
       - subtitle: 2 Way 'F' Type (Block & Bleed)
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
