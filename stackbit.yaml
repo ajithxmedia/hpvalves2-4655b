@@ -1763,3 +1763,6 @@ models:
           - label: ''
             value: ''
         label: Section alignment
+        description: >-
+          The horizontal alignment of the section content (title, subtitle,
+          action buttons)
