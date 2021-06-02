@@ -1699,5 +1699,5 @@ models:
     type: object
     label: Product Grid Section
     fields:
-      - name: ''
+      - name: title
         type: string
