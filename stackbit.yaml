@@ -871,6 +871,8 @@ models:
           - no-repeat
         default: no-repeat
         description: Repeat the image to cover the whole area
+      - name: class
+        type: string
   blog_feed_section:
     type: object
     label: Blog feed section
