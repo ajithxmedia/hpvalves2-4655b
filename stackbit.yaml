@@ -1851,5 +1851,5 @@ models:
     type: object
     label: Product Grid Item
     fields:
-      - name: ''
+      - name: title
         type: string
