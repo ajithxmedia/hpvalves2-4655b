@@ -605,6 +605,7 @@ models:
         description: Repeat the image to cover the whole area
       - name: class_name
         type: string
+        label: Class Name
   features_section:
     type: object
     label: Features section
@@ -1694,3 +1695,6 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+  product_grid:
+    type: object
+    label: product_grid
