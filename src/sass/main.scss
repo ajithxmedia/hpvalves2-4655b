@@ -80,6 +80,11 @@ div.navbar__menu.flex-md{
             color: #1774ab;
             text-align: left;
             font-weight: 500;
+            width:100%;
+    background: transparent;
+    border: 1px solid lightgray;
+    border-radius: 0;
+    color: #1774ab;
         }
     }
 }
