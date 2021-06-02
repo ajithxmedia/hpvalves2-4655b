@@ -1173,14 +1173,14 @@ models:
         An integer between 0 and 100. A lower value makes the image more
         transparent
         - type: enum
-            name: background_image_size
-            label: Background image size
-            options:
-            - auto
-            - contain
-            - cover
-            default: cover
-            description: The size of the background image
+        name: background_image_size
+        label: Background image size
+        options:
+        - auto
+        - contain
+        - cover
+        default: cover
+        description: The size of the background image
         - type: enum
             name: background_image_position
             label: Background image position
