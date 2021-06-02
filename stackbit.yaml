@@ -1854,3 +1854,6 @@ models:
       - name: title
         type: string
         label: Title
+        description: The title of the item
+      - name: ''
+        type: string
