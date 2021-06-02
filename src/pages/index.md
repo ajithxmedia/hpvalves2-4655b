@@ -1149,19 +1149,19 @@ models:
         default: medium
         description: The padding area (space) on the bottom of the section
         - type: boolean
-            name: has_border
-            label: Section border
-            default: false
-            description: Add section bottom border
+        name: has_border
+        label: Section border
+        default: false
+        description: Add section bottom border
         - type: enum
-            name: background_color
-            label: Background color
-            options:
-            - none
-            - primary
-            - secondary
-            default: none
-            description: The background color of the section
+        name: background_color
+        label: Background color
+        options:
+        - none
+        - primary
+        - secondary
+        default: none
+        description: The background color of the section
         - type: image
             name: background_image
             label: Background image
