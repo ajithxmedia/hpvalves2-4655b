@@ -1928,3 +1928,4 @@ models:
         options:
           - label: ''
             value: ''
+        label: Image container width
