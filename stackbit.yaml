@@ -1702,3 +1702,4 @@ models:
         description: Title of the field
       - name: Subtitle
         type: string
+        label: Subtitle
