@@ -1692,3 +1692,17 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+  product_item:
+    type: object
+    label: item
+    fields:
+      - name: title
+        type: string
+        label: 'Title '
+        description: Title of the field
+      - name: Subtitle
+        type: string
+        label: Subtitle
+        description: The subtitle of the item displayed below the title
+      - name: ''
+        type: string
