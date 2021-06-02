@@ -74,8 +74,10 @@ div.navbar__menu.flex-md{
 // News Section Styles Change
 .section.news_Grid{
     h2.item__title{
-        font-size: 20px;
+        font-size: 24px;
+        border-bottom: 1px solid lightgrey;
         margin-bottom: 0;
+        padding-bottom: 7px;
     }
     .item__actions{
         margin:0;
