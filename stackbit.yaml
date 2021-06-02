@@ -1788,5 +1788,5 @@ models:
         label: Section bottom padding
         description: The padding area (space) on the bottom of the section
         default: medium
-      - name: ''
-        type: string
+      - name: has_border
+        type: boolean
