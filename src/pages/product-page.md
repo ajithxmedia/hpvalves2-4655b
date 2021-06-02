@@ -5,7 +5,8 @@ sections:
     title: Products
     align: center
     background_color: secondary
-    padding_top: medium
+    padding_top: small
+    padding_bottom: small
   - type: grid_section
     title: Our Officess
     grid_items:
