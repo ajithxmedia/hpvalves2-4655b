@@ -1733,3 +1733,5 @@ models:
           models:
             - action
         label: Action buttons
+      - name: ''
+        type: string
