@@ -3,7 +3,7 @@ title: Products
 sections:
   - type: hero_section
     title: Products
-    align: right
+    align: left
     background_color: secondary
     padding_top: small
     padding_bottom: small
