@@ -1,0 +1,130 @@
+// Abstracts
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+// Base
+@import "base/reset";
+@import "base/base";
+
+// Utilities
+@import "utilities/grid";
+@import "utilities/flex";
+@import "utilities/spacing";
+@import "utilities/sizing";
+@import "utilities/typography";
+@import "utilities/accessibility";
+@import "utilities/clearing";
+
+// Components
+@import "components/buttons";
+@import "components/icons";
+@import "components/forms";
+@import "components/tables";
+@import "components/menus";
+@import "components/avatars";
+@import "components/cover";
+@import "components/cards";
+@import "components/containers";
+@import "components/banner";
+@import "components/text-block";
+
+// Layouts
+@import "layouts/site";
+@import "layouts/header";
+@import "layouts/footer";
+@import "layouts/announcement";
+@import "layouts/section";
+@import "layouts/post";
+@import "layouts/page";
+
+// Color variations
+@import "variations/modes";
+
+div.navbar__menu.flex-md{
+    flex-direction:column;
+    ul.menu{        
+    justify-content: flex-end;
+    }
+}
+
+
+
+
+// Grid customize
+@media (min-width: 961px){
+    section.section news_Grid .grid .cell-lg-4:nth-child(2){
+        max-width:50% !important;
+        flex:inherit;
+    }
+    .section.section.hero + section .grid .cell-lg-4:nth-child(1),.section.section.hero + section .grid .cell-lg-4:nth-child(3){
+        max-width:25% !important;
+    }
+}
+
+// News Section Styles Change
+.section.news_Grid{
+    h2.item__title{
+        font-size: 25px;
+        border-bottom: 1px solid lightgrey;
+        margin-bottom: 0;
+        color: #555555;
+        font-weight: 500;
+        padding-bottom: 7px;
+    }
+    img{
+        border-radius:0;
+    }
+    .item__actions{
+        margin:0;
+    }
+    .item__actions.btn-group{
+        a.btn{
+            color: #1774ab;
+            text-align: left;
+            font-weight: 500;
+            width:100%;
+            background: transparent;
+            border: 1px solid lightgray;
+            border-radius: 0;
+            color: #1774ab;
+        }
+    }
+}
+
+
+// Products List Grid
+.product_range{
+    .item.card{
+        padding: 15px 10px 10px 10px;
+        border-radius: 0;
+    }
+    .item__body {
+        border-top: 1px solid lightgray;
+        padding-top: 10px;
+        p{
+            margin-bottom:0;
+        }
+        .item__actions{
+            margin:0;
+        }
+    }
+    div.flex{
+        justify-content:center;
+    }
+}
+
+// common
+.style-classic.palette-green .section__title:after {
+    background-color: #0c558e;
+    // margin: 1.66667rem 0px 0px;   
+}
+   
+// Product Page
+section.banner_section {
+    background-color: #0c558e;
+    color: white;
+    .hero__title{
+        font-size: 33px;
+    }
+}
