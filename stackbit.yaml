@@ -1745,10 +1745,8 @@ models:
       - name: actions_width
         type: enum
         options:
-          - label: auto
-            value: auto
-          - label: ''
-            value: ''
+          - auto
+          - full-width
         label: Action buttons width
         description: The width of action button
         default: auto
