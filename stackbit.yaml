@@ -1516,18 +1516,12 @@ models:
         name: image_width
         label: Image container width
         options:
-          - label: twenty-five
-            value: twenty-five
-          - label: thirty-three
-            value: thirty-three
-          - label: fourty
-            value: fourty
-          - label: fifty
-            value: fifty
-          - label: sixty
-            value: sixty
-          - label: ''
-            value: ''
+          - twenty-five
+          - thirty-three
+          - fourty
+          - fifty
+          - sixty
+          - sixty
         default: fifty
         description: >-
           The image container width as a percentage of the item width. Used only
