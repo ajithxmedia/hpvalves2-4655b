@@ -1692,3 +1692,9 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+  product_item:
+    type: object
+    label: item
+    fields:
+      - name: ''
+        type: string
