@@ -50,7 +50,7 @@ sections:
         type: grid_item
         image: images/15-2WAY-VALVE-MANIFOLD-ANGLE-TYPE-350x238.png
       - subtitle: 2 Way - Gauge Type (F) X (F)
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
