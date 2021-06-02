@@ -25,7 +25,7 @@ sections:
         image_has_padding: true
         type: product_grid_item
         image: images/Valve-Manifolds-350x238.png
-      - subtitle: lorem-ipsum
+      - subtitle: 2 Way 'T' Type (Integral Mounting)
         title_align: left
         content_align: left
         actions: []
