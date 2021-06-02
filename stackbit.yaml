@@ -1704,5 +1704,5 @@ models:
         models:
           - product_grid
       - name: ''
-        type: model
-        models: []
+        type: object
+        fields: []
