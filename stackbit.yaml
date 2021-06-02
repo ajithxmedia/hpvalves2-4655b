@@ -1719,3 +1719,4 @@ models:
         description: The text content of the item
       - name: content_align
         type: string
+        label: Content alignment
