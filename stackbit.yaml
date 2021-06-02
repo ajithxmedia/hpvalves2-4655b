@@ -1781,14 +1781,10 @@ models:
       - name: padding_bottom
         type: enum
         options:
-          - label: none
-            value: none
-          - label: small
-            value: small
-          - label: medium
-            value: medium
-          - label: ''
-            value: ''
+          - none
+          - small
+          - medium
+          - large
         label: Section bottom padding
         description: The padding area (space) on the bottom of the section
         default: medium
