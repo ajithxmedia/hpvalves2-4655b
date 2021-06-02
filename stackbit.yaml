@@ -1703,6 +1703,6 @@ models:
         type: model
         models:
           - product_grid
-      - name: ''
+      - name: grid_section
         type: model
         models: []
