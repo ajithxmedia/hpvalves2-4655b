@@ -8,8 +8,7 @@ sections:
     padding_top: small
     padding_bottom: small
     class_name: banner_section
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     product_grid_items:
       - subtitle: 2 Way 'F' Type (Block & Bleed)
