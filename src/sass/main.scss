@@ -99,8 +99,12 @@ div.navbar__menu.flex-md{
         padding: 15px 10px 10px 10px;
         border-radius: 0;
     }
-    .item__body p{
-        margin-bottom:0;
+    .item__body {
+        border-top: 1px solid lightgray;
+        padding-top: 10px;
+        p{
+            margin-bottom:0;
+        }
     }
     div.flex{
         justify-content:center;
