@@ -39,8 +39,8 @@ export default class ProductGrid extends React.Component {
                 // Left Tab Section
                 <div className="container">
                     <div className={classNames('grid','grid-gap-small')}>
-                        <div className={classNames('cell-12', 'cell-md-6','cell-lg-6','my-1')}></div>
-                        
+                        <div className={classNames('cell-12', 'cell-md-6','cell-lg-6','cell-sm-12','my-1')}></div>
+
                     </div>
                 </div>
             	{_.get(section, 'product_grid_items', null) && (
