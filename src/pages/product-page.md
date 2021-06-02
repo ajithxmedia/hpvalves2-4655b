@@ -12,8 +12,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     product_grid_items:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
