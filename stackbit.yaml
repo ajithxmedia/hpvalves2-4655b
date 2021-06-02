@@ -1888,5 +1888,5 @@ models:
           models:
             - action
         label: Action buttons
-      - name: ''
+      - name: actions_align
         type: string
