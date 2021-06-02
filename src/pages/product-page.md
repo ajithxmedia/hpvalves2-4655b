@@ -3,7 +3,6 @@ title: Products
 sections:
   - type: hero_section
     title: Products
-    subtitle: About Page Demo
     align: center
     background_color: secondary
   - type: features_section
