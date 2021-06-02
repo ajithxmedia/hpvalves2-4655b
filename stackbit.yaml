@@ -1798,6 +1798,8 @@ models:
         options:
           - label: none
             value: none
+          - label: primary
+            value: primary
           - label: ''
             value: ''
         label: Background color
