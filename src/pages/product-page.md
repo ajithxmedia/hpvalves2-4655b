@@ -49,8 +49,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/15-2WAY-VALVE-MANIFOLD-ANGLE-TYPE-350x238.png
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
