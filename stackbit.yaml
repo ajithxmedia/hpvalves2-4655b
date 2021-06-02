@@ -1785,3 +1785,4 @@ models:
             value: ''
         label: Section bottom padding
         description: The padding area (space) on the bottom of the section
+        default: medium
