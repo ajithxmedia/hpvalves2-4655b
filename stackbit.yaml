@@ -1727,6 +1727,8 @@ models:
         options:
           - label: two
             value: two
+          - label: three
+            value: three
           - label: ''
             value: ''
         label: Grid columns
