@@ -1129,15 +1129,15 @@ models:
         The horizontal alignment of the section content (title, subtitle,
         action buttons)
         - type: enum
-            name: padding_top
-            label: Section top padding
-            options:
-            - none
-            - small
-            - medium
-            - large
-            default: medium
-            description: The padding area (space) on the top of the section
+        name: padding_top
+        label: Section top padding
+        options:
+        - none
+        - small
+        - medium
+        - large
+        default: medium
+        description: The padding area (space) on the top of the section
         - type: enum
             name: padding_bottom
             label: Section bottom padding
