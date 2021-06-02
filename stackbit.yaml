@@ -1908,3 +1908,4 @@ models:
       - name: image
         type: image
         label: Image
+        description: The image of the item
