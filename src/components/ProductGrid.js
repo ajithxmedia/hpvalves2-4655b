@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import {classNames, toStyleObj, withPrefix} from '../utils';
-import ProductItem from './GridItem';
+import ProductItem from './ProductItem';
 import SectionActions from './SectionActions';
 
 export default class GridSection extends React.Component {
