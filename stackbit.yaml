@@ -1708,4 +1708,7 @@ models:
         label: Subtitle
         description: The subtitle of the section displayed above the title
       - name: actions
-        type: string
+        type: list
+        description: Action buttons displayed below section items
+        items:
+          type: string
