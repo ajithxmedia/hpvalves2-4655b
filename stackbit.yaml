@@ -1920,6 +1920,8 @@ models:
             value: left
           - label: right
             value: right
+          - label: top
+            value: top
           - label: ''
             value: ''
         label: Image position
