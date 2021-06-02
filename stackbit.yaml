@@ -1934,6 +1934,19 @@ models:
       - name: image_width
         type: enum
         options:
-          - label: ''
-            value: ''
+          - twenty-five
+          - thirty-three
+          - fourty
+          - fifty
+          - sixty
         label: Image container width
+        default: fifty
+      - name: image_align
+        type: enum
+        options:
+          - left
+          - right
+          - center
+        label: Image alignment
+        description: The horizontal alignment of the image
+        default: left
