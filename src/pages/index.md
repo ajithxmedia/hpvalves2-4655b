@@ -96,7 +96,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    class: test_class
+    class: news_Grid
   - type: grid_section
     title: Product Range
     align: center
