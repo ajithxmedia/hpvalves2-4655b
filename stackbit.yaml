@@ -1720,7 +1720,8 @@ models:
         type: list
         items:
           type: model
-          models: []
+          models:
+            - product_grid_item
         label: Grid items
       - name: grid_cols
         type: enum
