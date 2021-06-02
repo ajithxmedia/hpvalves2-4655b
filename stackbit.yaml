@@ -1768,5 +1768,5 @@ models:
           The horizontal alignment of the section content (title, subtitle,
           action buttons)
         default: center
-      - name: ''
+      - name: padding_top
         type: string
