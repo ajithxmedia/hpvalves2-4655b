@@ -88,7 +88,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/HP206GV-350x238.png
-      - subtitle: lorem-ipsum
+      - subtitle: 3 Way 'F' Type (Separate Mounting)
         title_align: left
         content_align: left
         actions: []
