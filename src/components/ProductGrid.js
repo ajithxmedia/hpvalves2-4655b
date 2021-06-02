@@ -43,7 +43,7 @@ export default class ProductGrid extends React.Component {
                         {/*Left Container  */}
                         <div className={classNames('cell-12', 'cell-md-3','cell-lg-3','cell-sm-12','my-1')}>
                              {_.map(_.get(section, 'product_grid_items', null), (item, item_idx) => (
-                                            <ProductItem key={item_idx} {...this.props} section={section} item={item} />
+                                            
                             ))}
                         </div>
                         {/* Right Container */}
