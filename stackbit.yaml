@@ -1696,5 +1696,5 @@ models:
     type: object
     label: item
     fields:
-      - name: ''
+      - name: title
         type: string
