@@ -1822,4 +1822,5 @@ models:
         description: The size of the background image
         default: cover
       - name: background_image_position
-        type: string
+        type: enum
+        options: []
