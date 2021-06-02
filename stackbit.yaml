@@ -1778,5 +1778,6 @@ models:
         label: Section top padding
         description: The padding area (space) on the top of the section
         default: medium
-      - name: ''
-        type: string
+      - name: padding_bottom
+        type: enum
+        options: []
