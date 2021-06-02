@@ -1715,5 +1715,5 @@ models:
           models:
             - action
         label: Action buttons
-      - name: ''
+      - name: product_grid_items
         type: string
