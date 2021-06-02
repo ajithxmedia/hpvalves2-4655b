@@ -1706,3 +1706,4 @@ models:
       - name: subtitle
         type: string
         label: Subtitle
+        description: The subtitle of the section displayed above the title
