@@ -70,6 +70,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/News.jpg
+        subtitle: News
       - title: Industries Serve
         title_align: left
         content_align: left
