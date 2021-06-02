@@ -1715,3 +1715,4 @@ models:
         default: left
       - name: Cotent
         type: markdown
+        label: Content
