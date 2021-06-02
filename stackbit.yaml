@@ -1841,6 +1841,8 @@ models:
       - name: background_image_repeat
         type: enum
         options:
+          - label: no-repeat
+            value: no-repeat
           - label: ''
             value: ''
         label: Background image repeat
