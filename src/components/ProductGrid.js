@@ -43,7 +43,7 @@ export default class ProductGrid extends React.Component {
                             fgdfgdfgdfgdf
                         </div>
                         {/* Right Container */}
-                        <div className={classNames('cell-12', 'cell-md-6','cell-lg-6','cell-sm-12','my-1')}>
+                        <div className={classNames('cell-12', 'cell-md-9','cell-lg-6','cell-sm-12','my-1')}>
                             {_.get(section, 'product_grid_items', null) && (
                                 <div className="container">
                                     <div className={classNames('grid', {'grid-gap-small': grid_gap_x === 'small', 'grid-gap-large': grid_gap_x === 'large'})}>
