@@ -1083,15 +1083,15 @@ models:
         models:
             - product_item
         - type: enum
-            name: grid_cols
-            label: Grid columns
-            options:
-            - two
-            - three
-            - four
-            - five
-            default: three
-            description: Show the specified number of items in a grid row
+        name: grid_cols
+        label: Grid columns
+        options:
+        - two
+        - three
+        - four
+        - five
+        default: three
+        description: Show the specified number of items in a grid row
         - type: enum
             name: grid_gap_vert
             label: Grid gap vertical
