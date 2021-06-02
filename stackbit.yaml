@@ -1705,4 +1705,5 @@ models:
           - product_grid
       - name: grid_section
         type: model
-        models: []
+        models:
+          - grid_section
