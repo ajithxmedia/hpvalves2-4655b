@@ -1849,4 +1849,4 @@ models:
         default: no-repeat
   product_grid_item:
     type: object
-    label: product_grid_item
+    label: Product Grid Item
