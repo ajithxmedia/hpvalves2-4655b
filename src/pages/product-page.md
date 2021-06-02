@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Products
     align: center
-    background_color: secondary
+    background_color: none
     padding_top: small
     padding_bottom: small
   - type: grid_section
