@@ -1815,6 +1815,8 @@ models:
       - name: background_image_size
         type: enum
         options:
+          - label: cover
+            value: cover
           - label: ''
             value: ''
         label: Background image size
