@@ -1695,12 +1695,3 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-  product_grid:
-    type: object
-    label: product_grid
-    fields:
-      - name: product_grid
-        type: model
-        models:
-          - product_grid
-        label: Product Grid
