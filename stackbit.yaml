@@ -1704,5 +1704,5 @@ models:
         type: string
         label: Subtitle
         description: The subtitle of the item displayed below the title
-      - name: ''
+      - name: title_align
         type: string
