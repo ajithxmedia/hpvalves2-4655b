@@ -603,7 +603,7 @@ models:
           - no-repeat
         default: no-repeat
         description: Repeat the image to cover the whole area
-      - name: ''
+      - name: class_name
         type: string
   features_section:
     type: object
