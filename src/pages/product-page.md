@@ -126,6 +126,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/3-way-T_1-350x238.png
       - subtitle: 3 Way 'T' Type with Drain (Integral Mounting)
         title_align: left
         content_align: left
