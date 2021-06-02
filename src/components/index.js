@@ -27,6 +27,8 @@ import SectionActions from './SectionActions';
 import Layout from './Layout';
 
 export {
+    ProductGrid,
+    ProductItem,
     CustomGrid,
     CustomItems,
     Action,
@@ -55,6 +57,8 @@ export {
 };
 
 export default {
+    ProductGrid,
+    ProductItem,
     CustomGrid,
     CustomItems,
     Action,
