@@ -1712,5 +1712,6 @@ models:
         description: Action buttons displayed below section items
         items:
           type: model
-          models: []
+          models:
+            - action
         label: Action buttons
