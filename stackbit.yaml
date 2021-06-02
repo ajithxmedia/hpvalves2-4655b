@@ -1891,6 +1891,8 @@ models:
       - name: actions_align
         type: enum
         options:
+          - label: left
+            value: left
           - label: ''
             value: ''
         label: Action buttons alignment
