@@ -1719,3 +1719,5 @@ models:
         type: list
         items:
           type: string
+        description: Grid items
+        label: Grid items
