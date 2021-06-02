@@ -1729,3 +1729,4 @@ models:
             value: ''
         label: Grid columns
         description: Show the specified number of items in a grid row
+        default: three
