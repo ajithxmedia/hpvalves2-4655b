@@ -1793,3 +1793,5 @@ models:
         label: Section border
         description: Add section bottom border
         default: false
+      - name: ''
+        type: string
