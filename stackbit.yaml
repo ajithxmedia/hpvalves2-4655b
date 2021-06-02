@@ -1703,5 +1703,5 @@ models:
         type: string
         label: Title
         description: The title of the section
-      - name: ''
+      - name: subtitle
         type: string
