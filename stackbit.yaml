@@ -1849,7 +1849,9 @@ models:
         description: Repeat the image to cover the whole area
         default: no-repeat
       - name: tabs_items
-        type: string
+        type: list
+        items:
+          type: string
   product_grid_item:
     type: object
     label: Product Grid Item
