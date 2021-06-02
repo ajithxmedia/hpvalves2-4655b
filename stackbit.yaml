@@ -1750,5 +1750,5 @@ models:
         label: Grid gap horizontal
         description: The horizontal spacing between grid items
         default: small
-      - name: ''
-        type: string
+      - name: enable_cards
+        type: boolean
