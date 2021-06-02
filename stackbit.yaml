@@ -1851,7 +1851,8 @@ models:
       - name: tabs_items
         type: list
         items:
-          type: string
+          type: model
+          models: []
         label: Tabs Items
   product_grid_item:
     type: object
