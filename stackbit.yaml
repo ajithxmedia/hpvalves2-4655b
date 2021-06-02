@@ -1800,3 +1800,4 @@ models:
             value: ''
         label: Background color
         description: The background color of the section
+        default: none
