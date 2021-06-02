@@ -1806,3 +1806,5 @@ models:
         type: image
         label: Background image
         description: The image displayed in the background of the section
+      - name: ''
+        type: string
