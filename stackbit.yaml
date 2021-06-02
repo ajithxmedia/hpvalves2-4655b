@@ -1703,3 +1703,5 @@ models:
         type: model
         models:
           - product_grid
+      - name: ''
+        type: string
