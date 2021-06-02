@@ -1709,3 +1709,4 @@ models:
         options:
           - label: ''
             value: ''
+        label: Title, subtitle alignment
