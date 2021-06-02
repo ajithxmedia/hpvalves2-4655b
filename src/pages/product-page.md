@@ -62,7 +62,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: 2 Way - Gauge Type (F) X (F)
         title_align: left
         content: >-
           ## Lorem ipsum
