@@ -351,6 +351,7 @@ sections:
     enable_cards: true
     has_border: false
     class: product_range
+    padding_top: small
   - title: Clients
     actions: []
     grid_items:
