@@ -1118,16 +1118,16 @@ models:
         around the item content
         default: false
         - type: enum
-            name: align
-            label: Section alignment
-            options:
-            - left
-            - right
-            - center
-            default: center
-            description: >-
-            The horizontal alignment of the section content (title, subtitle,
-            action buttons)
+        name: align
+        label: Section alignment
+        options:
+        - left
+        - right
+        - center
+        default: center
+        description: >-
+        The horizontal alignment of the section content (title, subtitle,
+        action buttons)
         - type: enum
             name: padding_top
             label: Section top padding
