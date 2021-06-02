@@ -350,6 +350,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: true
     has_border: false
+    class: product_range
   - title: Clients
     actions: []
     grid_items:
