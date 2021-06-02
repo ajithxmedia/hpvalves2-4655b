@@ -1705,3 +1705,4 @@ models:
         description: The title of the section
       - name: subtitle
         type: string
+        label: Subtitle
