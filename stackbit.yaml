@@ -1700,4 +1700,5 @@ models:
     label: product_grid
     fields:
       - name: ''
-        type: string
+        type: model
+        models: []
