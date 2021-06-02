@@ -1912,3 +1912,6 @@ models:
       - name: image_alt
         type: string
         label: Image alt text
+        description: The alt text of the item image
+      - name: ''
+        type: string
