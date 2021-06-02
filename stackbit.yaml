@@ -1938,6 +1938,10 @@ models:
       - name: image_align
         type: enum
         options:
+          - label: left
+            value: left
+          - label: right
+            value: right
           - label: ''
             value: ''
         label: Image alignment
