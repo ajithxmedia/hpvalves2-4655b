@@ -1936,4 +1936,8 @@ models:
           when the image position is set to "left" or "right"
         default: fifty
       - name: image_align
-        type: string
+        type: enum
+        options:
+          - label: ''
+            value: ''
+        label: Image alignment
