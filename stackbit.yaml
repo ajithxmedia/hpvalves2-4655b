@@ -453,6 +453,7 @@ models:
             - blog_feed_section
             - cta_section
             - form_section
+            - product_grid
       - type: model
         name: seo
         models:
