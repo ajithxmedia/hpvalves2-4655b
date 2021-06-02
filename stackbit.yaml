@@ -1695,3 +1695,21 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+  product_grid:
+    type: object
+    label: Product Grid Section
+    fields:
+      - name: title
+        type: string
+        label: Title
+        description: The title of the section
+      - name: subtitle
+        type: string
+        label: Subtitle
+        description: The subtitle of the section displayed above the title
+      - name: actions
+        type: list
+        description: Action buttons displayed below section items
+        items:
+          type: string
+        label: Action buttons
