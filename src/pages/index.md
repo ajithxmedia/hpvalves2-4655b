@@ -1167,11 +1167,11 @@ models:
         label: Background image
         description: The image displayed in the background of the section
         - type: number
-            name: background_image_opacity
-            label: Background image opacity
-            description: >-
-            An integer between 0 and 100. A lower value makes the image more
-            transparent
+        name: background_image_opacity
+        label: Background image opacity
+        description: >-
+        An integer between 0 and 100. A lower value makes the image more
+        transparent
         - type: enum
             name: background_image_size
             label: Background image size
