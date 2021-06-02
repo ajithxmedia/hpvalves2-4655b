@@ -38,7 +38,7 @@ sections:
         image_has_padding: true
         type: product_grid_item
         image: images/12-2WAY-VALVE-MANIFOLD-T-TYPE-1-350x238.png
-      - subtitle: lorem-ipsum
+      - subtitle: 2 Way Angle Type
         title_align: left
         content_align: left
         actions: []
