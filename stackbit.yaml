@@ -1783,6 +1783,8 @@ models:
         options:
           - label: none
             value: none
+          - label: small
+            value: small
           - label: ''
             value: ''
         label: Section bottom padding
