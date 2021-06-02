@@ -1730,5 +1730,6 @@ models:
         type: list
         items:
           type: model
-          models: []
+          models:
+            - action
         label: Action buttons
