@@ -36,7 +36,6 @@ export default class ProductGrid extends React.Component {
             	</div>
             	)}
 
-                // Left Tab Section
                 <div className="container">
                     <div className={classNames('grid','grid-gap-small')}>
                         {/*Left Container  */}
