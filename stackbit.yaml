@@ -1948,3 +1948,4 @@ models:
             value: ''
         label: Image alignment
         description: The horizontal alignment of the image
+        default: left
