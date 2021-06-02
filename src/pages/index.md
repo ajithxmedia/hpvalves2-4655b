@@ -1139,15 +1139,15 @@ models:
         default: medium
         description: The padding area (space) on the top of the section
         - type: enum
-            name: padding_bottom
-            label: Section bottom padding
-            options:
-            - none
-            - small
-            - medium
-            - large
-            default: medium
-            description: The padding area (space) on the bottom of the section
+        name: padding_bottom
+        label: Section bottom padding
+        options:
+        - none
+        - small
+        - medium
+        - large
+        default: medium
+        description: The padding area (space) on the bottom of the section
         - type: boolean
             name: has_border
             label: Section border
