@@ -102,7 +102,7 @@ sections:
         type: grid_item
         image: images/16-3WAY-VALVE-MANIFOLD-F-TYPE-350x238.png
       - subtitle: 3 Way 'F' Type with Drain (Separate Mounting)
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
