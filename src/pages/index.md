@@ -1076,12 +1076,12 @@ models:
             - action
         description: Action buttons displayed below section items
         - type: list
-            name: product_item
-            label: Grid items
-            items:
-            type: model
-            models:
-                - product_item
+        name: product_item
+        label: Grid items
+        items:
+        type: model
+        models:
+            - product_item
         - type: enum
             name: grid_cols
             label: Grid columns
