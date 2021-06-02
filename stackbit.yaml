@@ -1716,3 +1716,4 @@ models:
       - name: content
         type: markdown
         label: Content
+        description: The text content of the item
