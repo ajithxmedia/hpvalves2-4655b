@@ -1850,12 +1850,3 @@ models:
   product_grid_item:
     type: object
     label: Product Grid Item
-    fields:
-      - name: title
-        type: string
-        label: Title
-        description: The title of the item
-      - name: subtitle
-        type: string
-        description: The subtitle of the item displayed below the title
-        label: Subtitle
