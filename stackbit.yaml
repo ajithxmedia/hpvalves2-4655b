@@ -1762,3 +1762,4 @@ models:
         options:
           - label: ''
             value: ''
+        label: Section alignment
