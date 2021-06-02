@@ -1748,3 +1748,4 @@ models:
           - label: ''
             value: ''
         label: Action buttons width
+        description: The width of action button
