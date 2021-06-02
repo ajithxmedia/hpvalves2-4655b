@@ -1796,12 +1796,9 @@ models:
       - name: background_color
         type: enum
         options:
-          - label: none
-            value: none
-          - label: primary
-            value: primary
-          - label: ''
-            value: ''
+          - none
+          - primary
+          - secondary
         label: Background color
         description: The background color of the section
         default: none
