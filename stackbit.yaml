@@ -1697,4 +1697,4 @@ models:
               label: Relative Url
   product_grid:
     type: object
-    label: product_grid
+    label: Product Grid Section
