@@ -1722,5 +1722,5 @@ models:
           models:
             - grid_item
         label: Grid items
-      - name: ''
+      - name: grid_cols
         type: string
