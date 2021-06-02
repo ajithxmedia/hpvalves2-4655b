@@ -1884,5 +1884,6 @@ models:
       - name: actions
         type: list
         items:
-          type: string
+          type: model
+          models: []
         label: Action buttons
