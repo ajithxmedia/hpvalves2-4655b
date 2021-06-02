@@ -1852,6 +1852,7 @@ models:
         type: list
         items:
           type: string
+        label: Tabs Items
   product_grid_item:
     type: object
     label: Product Grid Item
