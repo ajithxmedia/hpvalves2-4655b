@@ -1699,3 +1699,4 @@ models:
       - name: title
         type: string
         label: 'Title '
+        description: Title of the field
