@@ -1734,4 +1734,7 @@ models:
             - action
         label: Action buttons
       - name: actions_align
-        type: string
+        type: enum
+        options:
+          - label: ''
+            value: ''
