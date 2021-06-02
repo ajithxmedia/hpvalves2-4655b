@@ -173,7 +173,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - subtitle: lorem-ipsum
+      - subtitle: 5 Way 'H' Type (Integral Mounting)
         title_align: left
         content_align: left
         actions: []
