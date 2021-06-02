@@ -1,8 +1,8 @@
 ---
-title: P
+title: Products
 sections:
   - type: hero_section
-    title: About
+    title: Products
     subtitle: About Page Demo
     align: center
     background_color: secondary
