@@ -15,7 +15,7 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
+        content: >
           ## Lorem ipsum
 
 
@@ -23,9 +23,9 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsumvcbcvbcvb
 
-          - dolor sit amet
+          *   dolor sit amet
         content_align: left
         actions: []
         actions_align: left
