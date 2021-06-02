@@ -45,21 +45,21 @@ export default class ProductGrid extends React.Component {
                         {/* Right Container */}
                         <div className={classNames('cell-12', 'cell-md-6','cell-lg-6','cell-sm-12','my-1')}>
                             {_.get(section, 'product_grid_items', null) && (
-            	<div className="container">
-            		<div className={classNames('grid', {'grid-gap-small': grid_gap_x === 'small', 'grid-gap-large': grid_gap_x === 'large'})}>
-            			{_.map(_.get(section, 'product_grid_items', null), (item, item_idx) => (
-            				<ProductItem key={item_idx} {...this.props} section={section} item={item} />
-            			))}
-            		</div>
-            	</div>
-            	)}
-            	{_.get(section, 'actions', null) && (
-            	<div className={classNames('container', 'container--medium', {'mt-4': grid_gap_y !== 'large', 'mt-3': grid_gap_y === 'large'})}>
-            		<div className={classNames('section__actions', 'btn-group', {'justify-center': align_x === 'center', 'justify-end': align_x === 'right'})}>
-            			<SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
-            		</div>
-            	</div>
-            	)}
+                                <div className="container">
+                                    <div className={classNames('grid', {'grid-gap-small': grid_gap_x === 'small', 'grid-gap-large': grid_gap_x === 'large'})}>
+                                        {_.map(_.get(section, 'product_grid_items', null), (item, item_idx) => (
+                                            <ProductItem key={item_idx} {...this.props} section={section} item={item} />
+                                        ))}
+                                    </div>
+                                </div>
+                                )}
+                                {_.get(section, 'actions', null) && (
+                                <div className={classNames('container', 'container--medium', {'mt-4': grid_gap_y !== 'large', 'mt-3': grid_gap_y === 'large'})}>
+                                    <div className={classNames('section__actions', 'btn-group', {'justify-center': align_x === 'center', 'justify-end': align_x === 'right'})}>
+                                        <SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
+                                    </div>
+                                </div>
+                                )}
                         </div>
 
                     </div>
