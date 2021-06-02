@@ -1060,13 +1060,13 @@ models:
         labelField: title
         fields:
         - type: string
-            name: title
-            label: Title
-            description: The title of the section
+        name: title
+        label: Title
+        description: The title of the section
         - type: string
-            name: subtitle
-            label: Subtitle
-            description: The subtitle of the section displayed above the title
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the section displayed above the title
         - type: list
             name: actions
             label: Action buttons
