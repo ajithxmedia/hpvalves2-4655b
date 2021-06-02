@@ -1699,7 +1699,7 @@ models:
     type: object
     label: product_grid
     fields:
-      - name: ''
+      - name: product_grid
         type: model
         models:
           - product_grid
