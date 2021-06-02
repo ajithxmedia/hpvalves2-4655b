@@ -178,6 +178,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/5-Way-T-with-Drain_1-350x238.png
       - subtitle: 5 Way 'H' Type (Integral Mounting)
         title_align: left
         content_align: left
