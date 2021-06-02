@@ -1838,5 +1838,8 @@ models:
           The starting position of a background image. The first value is the
           horizontal position, and the second value is the vertical
         default: center center
-      - name: ''
-        type: string
+      - name: background_image_repeat
+        type: enum
+        options:
+          - label: ''
+            value: ''
