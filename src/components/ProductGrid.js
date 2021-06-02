@@ -44,7 +44,9 @@ export default class ProductGrid extends React.Component {
                             fgdfgdfgdfgdf
                         </div>
                         {/* Right Container */}
-                        <div className={classNames('cell-12', 'cell-md-6','cell-lg-6','cell-sm-12','my-1')}></div>
+                        <div className={classNames('cell-12', 'cell-md-6','cell-lg-6','cell-sm-12','my-1')}>
+                            dfdffgdfgdfgdfgdfgdf
+                        </div>
 
                     </div>
                 </div>
