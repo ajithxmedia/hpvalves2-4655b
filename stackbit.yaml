@@ -1942,4 +1942,7 @@ models:
         label: Image container width
         default: fifty
       - name: image_align
-        type: string
+        type: enum
+        options:
+          - label: ''
+            value: ''
