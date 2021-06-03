@@ -42,7 +42,9 @@ export default class ProductGrid extends React.Component {
                     <div className={classNames('grid','grid-gap-small')}>
                         {/*Left Container  */}
                         <div className={classNames('cell-12', 'cell-md-3','cell-lg-3','cell-sm-12','my-1')}>
-                            <div class=""></div>
+                            <div class="tab-sections">
+                            
+                            </div>
                             {_.map(_.get(section, 'tabs_items', null), (item, item_idx) => (
                                  <div>{_.get(item, 'label', null)}</div>           
                             ))}
