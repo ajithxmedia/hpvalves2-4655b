@@ -189,7 +189,9 @@ section.banner_section {
 
 // About PAge
 .feature.abt-1{
-
+    .item__content {
+        align-items:flex-start;
+    }
 }
 .feature{
     p{
