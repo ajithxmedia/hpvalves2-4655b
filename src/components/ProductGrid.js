@@ -45,6 +45,9 @@ export default class ProductGrid extends React.Component {
                             <div class="tab-sections">
                                 <ul class="tab_container">
                                     {_.map(_.get(section, 'tabs_items', null), (item, item_idx) => (
+                                        <li key={item_idx} className={classNames('menu__item', 'ml-md-3', {'is-active': (page_url === item_url) && (item_style === 'link'), 'menu__item-btn': item_style !== 'link'})}>
+                                            <Action {...this.props} action={item} />
+                                        </li>
                                         <li class="tab-item">{_.get(item, 'label', null)}</li>           
                                     ))}
                                 </ul>
