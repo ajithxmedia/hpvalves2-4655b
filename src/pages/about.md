@@ -19,36 +19,82 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - content: |
-          ## Why HP?&#xA;
+      - content: >
+          ## Why HP?
+
 
           *   Our Performance meets your expectations
 
+
           *   Focus on Consistent quality compliance.
+
 
           *   Follow International codes & standards which ensures.
 
+
           *   Recognition in the market.
+
 
           *   Competitive cost effectiveness.
 
+
           *   Continuous on our R\&D Process.
+
 
           *   Flexibility in design.
 
+
           *   Quality and traceability on our products.
+
 
           *   Fully computerized inventory system.
 
+
           *   Stringent quality control checks.
+
 
           *   Dedicated Professional and expert workforce.
 
+
           *   Timely delivery & Product durability.
+
 
           *   Service 24 x 7.
 
+
           *   Customized solutions.
+
+
+
+
+          ## Facilities
+
+
+          To ensure the timely and efficient accessibility of premium quality
+          products, we have established with,
+
+
+          *   Latest Modern Machineries.
+
+
+          *   Subject Matter Experts.
+
+
+          *   In-House Research & Development Centre.
+
+
+          *   Latest Design Applications.
+
+
+          *   In-House state of the art lab facility.
+
+
+          *   Industry 4.0 Shop Floor Digitization.
+
+
+          *   In-House Sophisticated Testing Facilities like low emission,
+          Vaccum Test, Cryogenic Test, High Pressure Hydro & High Pressure Gas
+          Test.
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
