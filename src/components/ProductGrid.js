@@ -22,7 +22,7 @@ export default class ProductGrid extends React.Component {
         let class_name = _.get(section, 'class', null);
 
         let page = _.get(this.props, 'page', null);
-        let menu = _.get(this.props, 'header_menu', null);
+        let menu = _.get(section, 'tabs_items', null);
         console.log(section)
         return (
             
