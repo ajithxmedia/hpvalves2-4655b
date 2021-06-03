@@ -118,7 +118,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     title: Why HP?
-  - title: lorem-ipsum
+  - title: Facilities
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
