@@ -224,6 +224,12 @@ section.banner_section {
         }
     }
     .grid .item{
-        .item__copy{}
+        .item__copy{
+            li{
+                p{
+                    margin-bottom:0 !important;
+                }
+            }
+        }
     }
 }
