@@ -161,7 +161,6 @@ sections:
     subtitle: 'We are following below codes & standards for Design & Materials,'
     image: images/image.jpg
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     image_alt: lorem-ipsum
     media_position: top
