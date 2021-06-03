@@ -175,7 +175,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    class_name: lorem-ipsum
+    class_name: inter_codes
     type: hero_section
 seo:
   title: About
