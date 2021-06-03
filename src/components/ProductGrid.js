@@ -4,8 +4,7 @@ import _ from 'lodash';
 import {classNames, toStyleObj, withPrefix} from '../utils';
 import ProductItem from './ProductItem';
 import SectionActions from './SectionActions';
-// import Action from './Action';
-import { Link } from 'react-router';
+import Action from './Action';
 
 export default class ProductGrid extends React.Component {
     render() {
@@ -23,8 +22,8 @@ export default class ProductGrid extends React.Component {
         let grid_gap_y = _.get(section, 'grid_gap_vert', null) || 'medium';
         let class_name = _.get(section, 'class', null);
 
-        // let page = _.get(this.props, 'page', null);
-        // let menu = _.get(section, 'tabs_items', null);
+        let page = _.get(this.props, 'page', null);
+        let menu = _.get(section, 'tabs_items', null);
         console.log(section)
         return (
             
@@ -49,14 +48,16 @@ export default class ProductGrid extends React.Component {
                         <div className={classNames('cell-12', 'cell-md-3','cell-lg-3','cell-sm-12','my-1')}>
                             <div class="tab-sections">
                                 <ul class="tab_container">
-                                    {_.map(_.get(section, 'tabs_items', null), (item, item_idx) => (
-                                        
-                                        <li >
-                                            <Link to={_.get(item, 'url', null)} > some stuff </Link>
+                                    {/* {_.map(_.get(section, 'tabs_items', null), (item, item_idx) => (
+                                        let page_url = _.trim(_.get(page, 'url', null), '/');
+                                        let item_url = _.trim(_.get(item, 'url', null), '/');
+                                        let item_style = _.get(item, 'style', null) || 'link';
+                                        <li key={item_idx} className={classNames('menu__item', 'ml-md-3', {'is-active': (page_url === item_url) && (item_style === 'link'), 'menu__item-btn': item_style !== 'link'})}>
+                                            <Action {...this.props} action={item} />
                                         </li>
                                         // <li class="tab-item">{_.get(item, 'label', null)}</li>           
-                                    ))}
-                                    {/* {_.map(menu, (item, item_idx) => {
+                                    ))} */}
+                                    {_.map(menu, (item, item_idx) => {
                                         let page_url = _.trim(_.get(page, 'url', null), '/');
                                         let item_url = _.trim(_.get(item, 'url', null), '/');
                                         let item_style = _.get(item, 'style', null) || 'link';
@@ -65,7 +66,7 @@ export default class ProductGrid extends React.Component {
                                                 <Action {...this.props} action={item} />
                                             </li>
                                         )
-                                    })} */}
+                                    })}
                                 </ul>
                             </div>
                             
