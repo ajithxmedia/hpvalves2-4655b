@@ -159,6 +159,10 @@ section.banner_section {
             a:last-child:after{
                 content: unset;
             }
+            a:hover{
+                text-decoration:none;
+                color: #0c558e!important;
+            }
         }
     }
 }
