@@ -1435,6 +1435,8 @@ models:
           - center
         default: left
         description: The horizontal alignment of the feature content
+      - name: ''
+        type: string
   grid_item:
     type: object
     label: Item
