@@ -135,5 +135,9 @@ section.banner_section {
     padding: 10px;
     ul{
         background-color: #f7f7f7 !important;
+        li{
+            padding-left: 10px !important;
+            padding-right: 10px !important;
+        }
     }
 }
