@@ -53,8 +53,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
