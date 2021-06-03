@@ -155,6 +155,15 @@ section.banner_section {
                 margin: 0 auto;
                 bottom: 0;
             }
+            a:after{
+                content: '';
+                border-bottom: 1px solid #b5b1b1;
+                position: absolute;
+                width: 91%;
+                right: 15px;
+                margin: 0 auto;
+                bottom: 0;
+            }
         }
     }
 }
