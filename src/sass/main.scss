@@ -160,7 +160,7 @@ section.banner_section {
                 content: unset;
             }
             a:hover{
-                text-decoration:none;
+                text-decoration:none !important;
                 color: #0c558e!important;
             }
         }
