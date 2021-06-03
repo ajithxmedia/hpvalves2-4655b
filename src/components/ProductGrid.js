@@ -49,9 +49,7 @@ export default class ProductGrid extends React.Component {
                             <div class="tab-sections">
                                 <ul class="tab_container">
                                     {_.map(_.get(section, 'tabs_items', null), (item, item_idx) => (
-                                        let page_url = _.trim(_.get(page, 'url', null), '/');
-                                        let item_url = _.trim(_.get(item, 'url', null), '/');
-                                        let item_style = _.get(item, 'style', null) || 'link';
+                                        
                                         <li >
                                             <Action {...this.props} action={item} />
                                         </li>
