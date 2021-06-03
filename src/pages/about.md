@@ -7,8 +7,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Section Title One
-        content: >-
+      - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
