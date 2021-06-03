@@ -57,7 +57,7 @@ export default class ProductGrid extends React.Component {
                                         </li>
                                         // <li class="tab-item">{_.get(item, 'label', null)}</li>           
                                     ))} */}
-                                    {_.map(menu, (item, item_idx) => {
+                                    {/* {_.map(menu, (item, item_idx) => {
                                         let page_url = _.trim(_.get(page, 'url', null), '/');
                                         let item_url = _.trim(_.get(item, 'url', null), '/');
                                         let item_style = _.get(item, 'style', null) || 'link';
@@ -66,7 +66,7 @@ export default class ProductGrid extends React.Component {
                                                 <Action {...this.props} action={item} />
                                             </li>
                                         )
-                                    })}
+                                    })} */}
                                 </ul>
                             </div>
                             
