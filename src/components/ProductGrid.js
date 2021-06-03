@@ -4,6 +4,7 @@ import _ from 'lodash';
 import {classNames, toStyleObj, withPrefix} from '../utils';
 import ProductItem from './ProductItem';
 import SectionActions from './SectionActions';
+import Action from './Action';
 
 export default class ProductGrid extends React.Component {
     render() {
