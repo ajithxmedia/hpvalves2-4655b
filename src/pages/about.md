@@ -188,6 +188,7 @@ sections:
 
 
       ![](/\_static/app-assets/image%20\(1\).jpg)
+    image: images/cool-jupiter.jpg
 seo:
   title: About
   description: This is the about us page
