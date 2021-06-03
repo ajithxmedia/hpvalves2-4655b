@@ -19,8 +19,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: Section Title Two
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+      - subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
