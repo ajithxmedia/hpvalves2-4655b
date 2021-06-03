@@ -20,6 +20,7 @@ export default class GridSection extends React.Component {
         let grid_gap_x = _.get(section, 'grid_gap_horiz', null) || 'medium';
         let grid_gap_y = _.get(section, 'grid_gap_vert', null) || 'medium';
         let class_name = _.get(section, 'class', null);
+        let class_name2 = _.get(section, 'class_name', null);
         return (
             <section className={classNames('section',class_name, {'has-border': _.get(section, 'has_border', null), 'has-cover': _.get(section, 'background_image', null), 'bg-none': bg_color === 'none', 'bg-primary': bg_color === 'primary', 'bg-secondary': bg_color === 'secondary', 'pt-4': padding_top === 'small', 'pt-6': (padding_top === 'medium') || (padding_top === 'large'), 'pt-md-7': padding_top === 'large', 'pb-4': padding_bottom === 'small', 'pb-6': (padding_bottom === 'medium') || (padding_bottom === 'large'), 'pb-md-7': padding_bottom === 'large'})}>
             	{_.get(section, 'background_image', null) && (
