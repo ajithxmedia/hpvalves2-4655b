@@ -208,7 +208,7 @@ sections:
     type: product_grid
     tabs_items:
       - label: Manifold Valves
-        url: /home
+        url: /about
         style: link
         has_icon: false
         icon: arrow-left
