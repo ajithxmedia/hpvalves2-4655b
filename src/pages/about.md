@@ -146,17 +146,16 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          *   Industry 4.0 Shop Floor Digitization.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          <!---->
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   In-House Sophisticated Testing Facilities like low emission,
+          Vaccum Test, Cryogenic Test, High Pressure Hydro & High Pressure Gas
+          Test.
         content_align: left
         actions: []
         actions_align: left
