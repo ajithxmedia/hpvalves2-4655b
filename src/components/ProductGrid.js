@@ -45,8 +45,8 @@ export default class ProductGrid extends React.Component {
                             <div class="tab-sections">
                                 <ul class="tab_container">
                                     {_.map(_.get(section, 'tabs_items', null), (item, item_idx) => (
-                                 <div>{_.get(item, 'label', null)}</div>           
-                            ))}
+                                        <li>{_.get(item, 'label', null)}</div>           
+                                    ))}
                                 </ul>
                             </div>
                             
