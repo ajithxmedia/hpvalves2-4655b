@@ -1,5 +1,5 @@
 ---
-title: About
+title: Our Profile
 sections:
   - type: features_section
     features:
