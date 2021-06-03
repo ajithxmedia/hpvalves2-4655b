@@ -172,6 +172,7 @@ sections:
     class_name: lorem-ipsum
     type: hero_section
     title: International Codes & Standards
+    subtitle: 'We are following below codes & standards for Design & Materials,'
 seo:
   title: About
   description: This is the about us page
