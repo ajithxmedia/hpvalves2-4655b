@@ -59,9 +59,7 @@ sections:
   - actions: []
     grid_items:
       - title_align: left
-        content: |+
-          ##
-
+        content: |
           *   Our Performance meets your expectations
 
           *   Focus on Consistent quality compliance.
@@ -75,7 +73,6 @@ sections:
           *   Continuous on our R\&D Process.
 
           *   Flexibility in design.
-
         content_align: left
         actions: []
         actions_align: left
