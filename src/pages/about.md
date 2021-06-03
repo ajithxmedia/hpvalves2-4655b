@@ -3,10 +3,6 @@ title: About
 sections:
   - title: Our Profile
     content: >-
-    
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
