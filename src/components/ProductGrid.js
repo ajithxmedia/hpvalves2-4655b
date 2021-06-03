@@ -51,7 +51,7 @@ export default class ProductGrid extends React.Component {
                                     {_.map(_.get(section, 'tabs_items', null), (item, item_idx) => (
                                         
                                         <li >
-                                            <Link to='/path' > some stuff </Link>
+                                            <Link to='{_.get(item, 'label', null)}' > some stuff </Link>
                                         </li>
                                         // <li class="tab-item">{_.get(item, 'label', null)}</li>           
                                     ))}
