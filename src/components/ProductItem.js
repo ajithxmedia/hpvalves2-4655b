@@ -99,7 +99,7 @@ export default class ProductItem extends React.Component {
                 					)}
                 				</div>
                 			</div>
-                			)}
+                    )}
                 </div>
             </React.Fragment>
         );
