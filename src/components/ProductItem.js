@@ -56,7 +56,7 @@ export default class ProductItem extends React.Component {
         if (((is_card && (has_image === false)) && (image_has_padding === false))) {
              is_card_no_img_no_padding = true;
         }
-        console.log(item)
+        
         return (
             <React.Fragment>
                 <div className={classNames('cell-12', 'cell-md-6', {'cell-lg-4': (columns === 'three') || (columns === 'four'),'cell-lg-3': (columns === 'five') , 'cell-xl-3': columns === 'four','cell-xl-2': columns === 'five', 'my-1': gap_y === 'small', 'my-2': gap_y !== 'small', 'my-sm-3': gap_y === 'large'})}>
