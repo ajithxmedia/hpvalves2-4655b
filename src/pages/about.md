@@ -126,11 +126,9 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          Latest Modern Machineries.
+          *   Latest Modern Machineries.
 
-          <!---->
-
-          Subject Matter Experts.
+          *   Subject Matter Experts.
 
           *   In-House Research & Development Centre.
 
