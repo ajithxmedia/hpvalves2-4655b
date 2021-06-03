@@ -7,10 +7,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - content: "**HP VALVES & FITTINGS INDIA PVT. LTD.,**\_was established in the year of 2000, We are ISO 9001:2015 by TUV Nord Group for the scope of Design, Manufacture and Supply of Instrumentation Valves & Fittings i.e. Tube Fittings, Pipe Fittings, Valve Grease Injection Fittings, Manifold Valves, Needle Valves, Ball Valves, Check valves, Globe Valves, Gate Valves, Relief Valves, Air Filter Regulators, Air Headers, Condensate Pot, Syphon and Custom Build / Specialized Engineering Components.\n\n"
         image: images/spectacular-mars.jpg
         image_alt: People in conversation in the office lounge area
         media_position: left
