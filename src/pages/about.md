@@ -142,8 +142,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     class_name: abt-grid
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
