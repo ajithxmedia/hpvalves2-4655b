@@ -59,17 +59,23 @@ sections:
   - actions: []
     grid_items:
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          ##
 
+          *   Our Performance meets your expectations
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Focus on Consistent quality compliance.
 
+          *   Follow International codes & standards which ensures.
 
-          - Lorem ipsum
+          *   Recognition in the market.
 
-          - dolor sit amet
+          *   Competitive cost effectiveness.
+
+          *   Continuous on our R\&D Process.
+
+          *   Flexibility in design.
+
         content_align: left
         actions: []
         actions_align: left
