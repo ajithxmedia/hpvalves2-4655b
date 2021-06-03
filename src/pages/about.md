@@ -177,6 +177,16 @@ sections:
     background_image_repeat: no-repeat
     class_name: inter_codes imporovement
     type: hero_section
+    content: >
+      Since 2000 HP has capitalized of the importance of continuous improvement
+      and introduced the concept of lean Manufacturing within the company. Under
+      the leadership and guidance of our senior management who have encouraged
+      everyone in HP to participate in all Kaizen events, this has proved to be
+      a great success. HP is continually improving their technical capabilities,
+      product quality and lead time by learning from these events and practices.
+
+
+      ![](/\_static/app-assets/image%20\(1\).jpg)
 seo:
   title: About
   description: This is the about us page
