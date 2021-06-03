@@ -245,12 +245,14 @@ section.banner_section {
     margin-bottom:0 !important;
     font-size: 16px !important;
 }
-section.inter_codes{}
-.hero__media {
+section.inter_codes{
+    .hero__media {
     img{
         margin: 0 auto;
     }
 }
+}
+
 .section.features{
     padding-bottom:0 !important;
 }
