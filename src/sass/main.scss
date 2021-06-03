@@ -169,7 +169,11 @@ section.banner_section {
 }
 .product_grid_items{
     .item.card{
-        height:inherit !important;
+        height:inherit !important;        
+        border-color: #c1c1c1;
+        border-radius: 0;
+        padding: 16px;
+
     }
     .item__body{
         p{
