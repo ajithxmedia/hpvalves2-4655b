@@ -22,52 +22,6 @@ sections:
         type: feature
         class_name: abt-1
       - content: >
-          ## Why HP?
-
-
-          *   Our Performance meets your expectations
-
-
-          *   Focus on Consistent quality compliance.
-
-
-          *   Follow International codes & standards which ensures.
-
-
-          *   Recognition in the market.
-
-
-          *   Competitive cost effectiveness.
-
-
-          *   Continuous on our R\&D Process.
-
-
-          *   Flexibility in design.
-
-
-          Quality and traceability on our products.
-
-
-          *   Fully computerized inventory system.
-
-
-          *   Stringent quality control checks.
-
-
-          *   Dedicated Professional and expert workforce.
-
-
-          *   Timely delivery & Product durability.
-
-
-          *   Service 24 x 7.
-
-
-          *   Customized solutions.
-
-
-          *
 
 
           ## Facilities
