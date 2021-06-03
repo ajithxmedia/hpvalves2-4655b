@@ -87,9 +87,6 @@ sections:
     title: Why HP?
     class_name: abt-grid
   - title: Facilities
-    subtitle: >-
-      To ensure the timely and efficient accessibility of premium quality
-      products, we have established with,
     actions: []
     grid_items:
       - title_align: left
