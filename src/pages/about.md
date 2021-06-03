@@ -11,7 +11,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-        image: images/about-5.jpg
+        image: images/spectacular-mars.jpg
         image_alt: People in conversation in the office lounge area
         media_position: left
         media_width: fifty
