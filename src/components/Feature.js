@@ -16,7 +16,7 @@ export default class Feature extends React.Component {
         let media_pos = _.get(feature, 'media_position', null) || 'top';
         let is_horiz = false;
         let is_vert = false;
-        let class_name = _.get(feature, 'media_position', null)
+        let class_name = _.get(feature, 'class_name', null)
         if ((((_.get(feature, 'title', null) || _.get(feature, 'subtitle', null)) || _.get(feature, 'content', null)) || _.get(feature, 'actions', null))) {
              has_text = true;
         }
