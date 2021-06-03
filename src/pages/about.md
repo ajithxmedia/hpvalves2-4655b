@@ -46,7 +46,7 @@ sections:
           *   Flexibility in design.
 
 
-          *   Quality and traceability on our products.
+          Quality and traceability on our products.
 
 
           *   Fully computerized inventory system.
@@ -67,6 +67,7 @@ sections:
           *   Customized solutions.
 
 
+          *
 
 
           ## Facilities
