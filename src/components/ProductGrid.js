@@ -4,7 +4,7 @@ import _ from 'lodash';
 import {classNames, toStyleObj, withPrefix} from '../utils';
 import ProductItem from './ProductItem';
 import SectionActions from './SectionActions';
-import Action from './Action';
+// import Action from './Action';
 
 export default class ProductGrid extends React.Component {
     render() {
@@ -22,8 +22,8 @@ export default class ProductGrid extends React.Component {
         let grid_gap_y = _.get(section, 'grid_gap_vert', null) || 'medium';
         let class_name = _.get(section, 'class', null);
 
-        let page = _.get(this.props, 'page', null);
-        let menu = _.get(section, 'tabs_items', null);
+        // let page = _.get(this.props, 'page', null);
+        // let menu = _.get(section, 'tabs_items', null);
         console.log(section)
         return (
             
