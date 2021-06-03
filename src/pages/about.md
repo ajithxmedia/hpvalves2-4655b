@@ -171,6 +171,7 @@ sections:
     background_image_repeat: no-repeat
     class_name: lorem-ipsum
     type: hero_section
+    title: International Codes & Standards
 seo:
   title: About
   description: This is the about us page
