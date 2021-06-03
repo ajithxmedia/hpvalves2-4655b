@@ -165,7 +165,7 @@ sections:
   - title: Continuous Improvement
     actions: []
     image_alt: lorem-ipsum
-    media_position: top
+    media_position: bottom
     media_width: sixty
     align: left
     padding_top: medium
