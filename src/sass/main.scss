@@ -143,8 +143,9 @@ section.banner_section {
             a{
                 padding: 5px !important;
                 font-family: 'Source Sans Pro', sans-serif !important;
-                &:after{
-                    after {
+            }
+            a:after{
+                after {
     content: '';
     border-bottom: 1px solid #b5b1b1;
     position: absolute;
@@ -152,7 +153,6 @@ section.banner_section {
     right: 15px;
     margin: 0 auto;
     bottom: 0;
-                }
             }
         }
     }
