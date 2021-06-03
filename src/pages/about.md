@@ -22,6 +22,7 @@ sections:
         align: left
         type: feature
         class_name: abt-1
+    padding_bottom: small
   - actions: []
     grid_items:
       - title_align: left
