@@ -135,11 +135,13 @@ section.banner_section {
     padding: 10px;
     ul{
         background-color: #f7f7f7 !important;
+        padding-left:0;
         li{
             padding-left: 10px !important;
             padding-right: 10px !important;
             list-style: none;
             position: relative;
+            margin-left:0;
             a{
                 padding: 5px !important;
                 font-family: 'Source Sans Pro', sans-serif !important;
