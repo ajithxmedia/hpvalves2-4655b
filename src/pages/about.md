@@ -119,7 +119,9 @@ sections:
     type: grid_section
     title: Why HP?
   - title: Facilities
-    subtitle: lorem-ipsum
+    subtitle: >-
+      To ensure the timely and efficient accessibility of premium quality
+      products, we have established with,
     actions: []
     grid_items: []
     grid_cols: three
