@@ -5,6 +5,7 @@ import {classNames, toStyleObj, withPrefix} from '../utils';
 import ProductItem from './ProductItem';
 import SectionActions from './SectionActions';
 // import Action from './Action';
+import { Link } from 'react-router';
 
 export default class ProductGrid extends React.Component {
     render() {
