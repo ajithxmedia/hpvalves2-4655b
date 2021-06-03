@@ -1,44 +1,23 @@
 ---
 title: About
 sections:
-  - title: Our Profile
-    content: ''
-    actions: []
-    image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: small
-    padding_bottom: none
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    class_name: banner_section
-    type: hero_section
+  - type: hero_section
+    title: About
+    subtitle: About Page Demo
+    align: center
+    background_color: secondary
   - type: features_section
     features:
-      - content: >-
-          <b>HP VALVES & FITTINGS INDIA PVT. LTD.,</b> was established in the
-          year of 2000, We are ISO 9001:2015 by TUV Nord Group for the scope of
-          Design, Manufacture and Supply of Instrumentation Valves & Fittings
-          i.e. Tube Fittings, Pipe Fittings, Valve Grease Injection Fittings,
-          Manifold Valves, Needle Valves, Ball Valves, Check valves, Globe
-          Valves, Gate Valves, Relief Valves, Air Filter Regulators, Air
-          Headers, Condensate Pot, Syphon and Custom Build / Specialized
-          Engineering Components.
-        image: images/2-3.jpg
+      - title: Section Title One
+        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla.
+        image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
-        media_position: left
+        media_position: right
         media_width: fifty
-      - content: >-
-        actions: []
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
       - title: Section Title Two
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
@@ -59,6 +38,89 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
+  - type: grid_section
+    title: Our Officess
+    grid_items:
+      - title: Some City
+        content: >-
+          1234 Some St.<br/> Some City, ST 12345<br/>
+          [1-234-556-7890](tel:+12345567890)<br/>
+          [email@example.com](mailto:email@example.com)
+        content_align: left
+        actions:
+          - label: Get Directions
+            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        actions_align: left
+        actions_width: auto
+      - title: Some City
+        content: >-
+          1234 Some St.<br/> Some City, ST 12345<br/>
+          [1-234-556-7890](tel:+12345567890)<br/>
+          [email@example.com](mailto:email@example.com)
+        content_align: left
+        actions:
+          - label: Get Directions
+            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        actions_align: left
+        actions_width: auto
+      - title: Some City
+        content: >-
+          1234 Some St.<br/> Some City, ST 12345<br/>
+          [1-234-556-7890](tel:+12345567890)<br/>
+          [email@example.com](mailto:email@example.com)
+        content_align: left
+        actions:
+          - label: Get Directions
+            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        actions_align: left
+        actions_width: auto
+      - title: Some City
+        content: >-
+          1234 Some St.<br/> Some City, ST 12345<br/>
+          [1-234-556-7890](tel:+12345567890)<br/>
+          [email@example.com](mailto:email@example.com)
+        content_align: left
+        actions:
+          - label: Get Directions
+            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        actions_align: left
+        actions_width: auto
+    grid_cols: four
+    grid_gap_horiz: large
+    grid_gap_vert: large
+    enable_cards: true
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+  - type: cta_section
+    title: This is a Call to Action
+    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    actions:
+      - label: Compare Plans
+        url: /pricing
+        style: primary
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
 seo:
   title: About
   description: This is the about us page
