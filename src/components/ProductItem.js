@@ -69,33 +69,7 @@ export default class ProductItem extends React.Component {
                 				</div>
                 			</div>
                 			)}
-                			{has_text && (
-                			<div className={classNames({'cell-12': is_horiz, 'cell-md-9': is_horiz && (image_width === 'twenty-five'), 'cell-md-8': is_horiz && (image_width === 'thirty-three'), 'cell-md-7': is_horiz && (image_width === 'fourty'), 'cell-md-6': is_horiz && (image_width === 'fifty'), 'cell-md-5': is_horiz && (image_width === 'sixty'), 'order-md-first': has_image && (image_pos === 'right'), 'order-first': has_image && (image_pos === 'bottom'), 'mb-auto': (is_card && (image_pos === 'bottom')) && (image_has_padding === false)})}>
-                				<div className={classNames('item__body', {'p-3': has_image && is_card_no_padding, 'px-sm-4': has_image && is_card_no_padding, 'pb-sm-4': (has_image && is_card_no_padding) && (image_pos !== 'bottom'), 'pt-sm-4': (has_image && is_card_no_padding) && (image_pos === 'bottom'), 'py-md-4': (has_image && is_card_no_padding) && is_horiz, 'pr-md-4': (has_image && is_card_no_padding) && (image_pos === 'left'), 'pl-md-3': (has_image && is_card_no_padding) && (image_pos === 'left'), 'pl-md-4': (has_image && is_card_no_padding) && (image_pos === 'right'), 'pr-md-3': (has_image && is_card_no_padding) && (image_pos === 'right')})}>
-                					{_.get(item, 'title', null) && (
-                						_.get(section, 'title', null) ? (
-                						<h3 className={classNames('item__title', {'h3': columns === 'two', 'h4': columns === 'three', 'h5': columns === 'four', 'text-center': title_align_x === 'center', 'text-right': title_align_x === 'right'})}>{_.get(item, 'title', null)}</h3>
-                						) : 
-                						<h2 className={classNames('item__title', {'h3': columns === 'two', 'h4': columns === 'three', 'h5': columns === 'four', 'text-center': title_align_x === 'center', 'text-right': title_align_x === 'right'})}>{_.get(item, 'title', null)}</h2>
-                					)}
-                					{_.get(item, 'subtitle', null) && (
-                					<p className={classNames('item__subtitle', {'text-center': title_align_x === 'center', 'text-right': title_align_x === 'right'})}>
-                						{_.get(item, 'subtitle', null)}
-                					</p>
-                					)}
-                					{_.get(item, 'content', null) && (
-                					<div className={classNames('item__copy', {'text-center': content_align_x === 'center', 'text-right': content_align_x === 'right'})}>
-                						{markdownify(_.get(item, 'content', null))}
-                					</div>
-                					)}
-                					{_.get(item, 'actions', null) && (
-                					<div className={classNames('item__actions', 'btn-group', {'btn-group--fill': actions_width === 'full-width', 'justify-center': actions_align_x === 'center', 'justify-end': actions_align_x === 'right'})}>
-                						<SectionActions {...this.props} actions={_.get(item, 'actions', null)} />
-                					</div>
-                					)}
-                				</div>
-                			</div>
-                			)}
+                			
                 		</div>
                 	</div>
                 </div>
