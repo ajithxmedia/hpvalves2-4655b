@@ -100,6 +100,7 @@ sections:
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
+        class_name: abt-3
   - type: grid_section
     title: Our Officess
     grid_items:
