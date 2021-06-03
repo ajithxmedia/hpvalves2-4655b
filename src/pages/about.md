@@ -1,7 +1,7 @@
 ---
 title: About
 sections:
-  - title: lorem-ipsum
+  - title: Our Profile
     content: >-
       ## Lorem ipsum
 
