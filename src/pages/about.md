@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: About
+    title: Our Profile
     align: center
     background_color: secondary
     padding_bottom: small
