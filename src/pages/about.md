@@ -13,8 +13,7 @@ sections:
         media_position: left
         media_width: fifty
         align: left
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
