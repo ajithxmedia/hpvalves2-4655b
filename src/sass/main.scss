@@ -216,6 +216,8 @@ section.banner_section {
             font-family: 'Open Sans regular', sans-serif !important;
             font-size: 30px !important;
             text-align: left;
+            margin-bottom: 0;
+            font-weight: 500;
         }
         h2:after{
             content:unset !important;
