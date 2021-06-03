@@ -21,9 +21,14 @@ sections:
   - type: features_section
     features:
       - content: >-
-          <b>HP VALVES & FITTINGS INDIA PVT. LTD.,</b> was established in the year of 2000, We are ISO 9001:2015 by TUV Nord Group for the scope of Design, Manufacture and Supply of Instrumentation Valves & Fittings i.e. Tube Fittings, Pipe Fittings, Valve Grease Injection Fittings, Manifold Valves, Needle Valves, Ball Valves, Check valves, Globe Valves, Gate Valves, Relief Valves, Air Filter Regulators, Air Headers, Condensate Pot, Syphon and Custom Build / Specialized Engineering Components.
-
-
+          <b>HP VALVES & FITTINGS INDIA PVT. LTD.,</b> was established in the
+          year of 2000, We are ISO 9001:2015 by TUV Nord Group for the scope of
+          Design, Manufacture and Supply of Instrumentation Valves & Fittings
+          i.e. Tube Fittings, Pipe Fittings, Valve Grease Injection Fittings,
+          Manifold Valves, Needle Valves, Ball Valves, Check valves, Globe
+          Valves, Gate Valves, Relief Valves, Air Filter Regulators, Air
+          Headers, Condensate Pot, Syphon and Custom Build / Specialized
+          Engineering Components.
         image: images/2-3.jpg
         image_alt: People in conversation in the office lounge area
         media_position: left
@@ -48,6 +53,28 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
 seo:
   title: About
   description: This is the about us page
