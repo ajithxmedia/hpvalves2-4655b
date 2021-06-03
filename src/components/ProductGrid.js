@@ -52,7 +52,7 @@ export default class ProductGrid extends React.Component {
                                         let page_url = _.trim(_.get(page, 'url', null), '/');
                                         let item_url = _.trim(_.get(item, 'url', null), '/');
                                         let item_style = _.get(item, 'style', null) || 'link';
-                                        <li key={item_idx} className={classNames('menu__item', 'ml-md-3', {'is-active': (page_url === item_url) && (item_style === 'link'), 'menu__item-btn': item_style !== 'link'})}>
+                                        <li >
                                             <Action {...this.props} action={item} />
                                         </li>
                                         // <li class="tab-item">{_.get(item, 'label', null)}</li>           
