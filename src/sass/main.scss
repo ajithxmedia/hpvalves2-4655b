@@ -122,6 +122,9 @@ div.navbar__menu.flex-md{
    
 // Product Page
 section.banner_section {
+    .container{
+        max-width: 1169px !important;
+    }
     background-color: #0c558e !important;
     color: white;
     .hero__title{
