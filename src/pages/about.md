@@ -87,17 +87,11 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          *   *   Fully computerized inventory system.*   Stringent quality
+          control checks.*   Dedicated Professional and expert workforce.*  
+          Timely delivery & Product durability.*   Service 24 x 7.*   Customized
+          solutions.
         content_align: left
         actions: []
         actions_align: left
