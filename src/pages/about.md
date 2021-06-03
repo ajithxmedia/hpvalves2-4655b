@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: Our Profile
-    align: center
+    align: right
     background_color: secondary
     padding_bottom: small
     class_name: banner_section
