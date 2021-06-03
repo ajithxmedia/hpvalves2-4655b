@@ -279,7 +279,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: Trunnion Ball Valves
         url: '#'
         style: link
         has_icon: false
