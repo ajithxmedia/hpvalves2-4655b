@@ -20,6 +20,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        class_name: abt-1
       - content: >
           ## Why HP?
 
