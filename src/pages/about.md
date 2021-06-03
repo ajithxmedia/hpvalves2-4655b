@@ -125,17 +125,18 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          Latest Modern Machineries.
 
+          <!---->
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Subject Matter Experts.
 
+          *   In-House Research & Development Centre.
 
-          - Lorem ipsum
+          *   Latest Design Applications.
 
-          - dolor sit amet
+          *   In-House state of the art lab facility.
         content_align: left
         actions: []
         actions_align: left
