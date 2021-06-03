@@ -1,12 +1,6 @@
 ---
 title: About
 sections:
-  - type: hero_section
-    title: About
-    subtitle: About Page Demo
-    align: center
-    background_color: secondary
-    class_name: banner_section
   - type: features_section
     features:
       - title: Section Title One
