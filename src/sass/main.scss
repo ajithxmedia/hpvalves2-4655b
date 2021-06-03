@@ -207,4 +207,9 @@ section.banner_section {
         text-align: left;
     }
 }
-.section.abt-grid{}
+.section.abt-grid{
+    .container{
+        max-width: 1169px !important;
+        margin-bottom: 0;
+    }
+}
