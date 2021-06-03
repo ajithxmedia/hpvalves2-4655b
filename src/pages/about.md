@@ -102,8 +102,7 @@ sections:
         media_position: left
         media_width: fifty
         class_name: abt-3
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
