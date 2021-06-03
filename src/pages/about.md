@@ -13,17 +13,7 @@ sections:
         media_position: left
         media_width: fifty
         align: left
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - content: "**\nMr. S. Harichandran**\_– Managing Director founded this business with an aim to become a leader in this Field of Instrumentation System Solutions.\n\nHe has wide experience of 25 years in this field. With his sharp business acumen and constant efforts, he has earned a reputation for his business. Our aims towards achieving the highest level of business efficiency with integrity and honesty in order to create benchmark globally in quality of valves and fittings industry .\n"
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
