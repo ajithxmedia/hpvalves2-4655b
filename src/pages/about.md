@@ -21,41 +21,6 @@ sections:
         align: left
         type: feature
         class_name: abt-1
-      - content: >
-
-
-          ## Facilities
-
-
-          To ensure the timely and efficient accessibility of premium quality
-          products, we have established with,
-
-
-          *   Latest Modern Machineries.
-
-
-          *   Subject Matter Experts.
-
-
-          *   In-House Research & Development Centre.
-
-
-          *   Latest Design Applications.
-
-
-          *   In-House state of the art lab facility.
-
-
-          *   Industry 4.0 Shop Floor Digitization.
-
-
-          *   In-House Sophisticated Testing Facilities like low emission,
-          Vaccum Test, Cryogenic Test, High Pressure Hydro & High Pressure Gas
-          Test.
-        image_alt: People in a conference room
-        media_position: left
-        media_width: fifty
-        class_name: abt-3
   - actions: []
     grid_items:
       - title_align: left
