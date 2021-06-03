@@ -217,5 +217,8 @@ section.banner_section {
             font-size: 30px !important;
             text-align: left;}
         }
+        h2:after{
+            content:unset !important;
+        }
     }
 }
