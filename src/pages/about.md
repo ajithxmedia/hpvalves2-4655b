@@ -19,10 +19,36 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - content: |
+          ## Why HP?&#xA;
+
+          *   Our Performance meets your expectations
+
+          *   Focus on Consistent quality compliance.
+
+          *   Follow International codes & standards which ensures.
+
+          *   Recognition in the market.
+
+          *   Competitive cost effectiveness.
+
+          *   Continuous on our R\&D Process.
+
+          *   Flexibility in design.
+
+          *   Quality and traceability on our products.
+
+          *   Fully computerized inventory system.
+
+          *   Stringent quality control checks.
+
+          *   Dedicated Professional and expert workforce.
+
+          *   Timely delivery & Product durability.
+
+          *   Service 24 x 7.
+
+          *   Customized solutions.
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
