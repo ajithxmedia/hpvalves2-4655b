@@ -16,7 +16,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    class_name: lorem-ipsum
+    class_name: banner_section
     type: hero_section
   - type: features_section
     features:
