@@ -115,10 +115,6 @@ sections:
         content: >
           *   Industry 4.0 Shop Floor Digitization.
 
-
-          <!---->
-
-
           *   In-House Sophisticated Testing Facilities like low emission,
           Vaccum Test, Cryogenic Test, High Pressure Hydro & High Pressure Gas
           Test.
