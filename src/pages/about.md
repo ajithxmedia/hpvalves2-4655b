@@ -129,7 +129,7 @@ sections:
     grid_gap_horiz: small
     enable_cards: false
     align: left
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     has_border: false
     background_color: none
