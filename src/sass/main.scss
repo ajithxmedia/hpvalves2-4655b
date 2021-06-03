@@ -171,5 +171,9 @@ section.banner_section {
     .item.card{
         height:inherit !important;
     }
-    .item
+    .item__body{
+        p{
+            margin-bottom:0;
+        }
+    }
 }
