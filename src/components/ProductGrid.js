@@ -20,6 +20,9 @@ export default class ProductGrid extends React.Component {
         let grid_gap_x = _.get(section, 'grid_gap_horiz', null) || 'medium';
         let grid_gap_y = _.get(section, 'grid_gap_vert', null) || 'medium';
         let class_name = _.get(section, 'class', null);
+
+        let page = _.get(this.props, 'page', null);
+        let menu = _.get(this.props, 'header_menu', null);
         console.log(section)
         return (
             
